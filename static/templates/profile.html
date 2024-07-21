@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Direktmandat des Wahlkreises: </title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+            position: relative;
+        }
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background-color: #FF9E00;
+            color: white;
+            padding: 20px;
+        }
+        header h1 {
+            margin: 0;
+        }
+        .home-btn {
+            color: white;
+            text-decoration: none;
+            font-size: 20px;
+        }
+        #profiles {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 20px;
+            max-width: 1200px;
+            margin: 20px auto;
+            padding: 15px;
+        }
+        .profile, .post, .history {
+            background: white;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            border-radius: 8px;
+            padding: 15px;
+            transition: transform 0.2s, box-shadow 0.2s;
+            position: relative;
+            z-index: 1; /* Ensure text is in the foreground */
+        }
+        .profile {
+            cursor: pointer;
+        }
+        .profile:hover {
+            transform: scale(1.02);
+            box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+        }
+        .profile.expanded {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%) scale(1.1);
+            z-index: 1000;
+            background-color: #fff;
+            border: 2px solid #FF9E00;
+            width: 80%;
+            height: 80%;
+            overflow-y: auto;
+        }
+        .profile .close-btn {
+            display: none;
+        }
+        .profile.expanded .close-btn {
+            display: block;
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            cursor: pointer;
+            font-size: 20px;
+            font-weight: bold;
+        }
+        .overlay {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.5);
+            z-index: 500;
+        }
+        .overlay.visible {
+            display: block;
+        }
+        .history {
+            margin-top: 20px;
+        }
+        .post {
+            border-left: 4px solid #FF9E00;
+            padding-left: 10px;
+            margin-top: 10px;
+        }
+        .profile-header {
+            display: flex;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+        .profile img {
+            width: 100px;
+            height: auto;
+            max-height: 100px;
+            max-width: 100px;
+            position: absolute;
+            z-index: -1; /* Ensure images are in the background */
+            opacity: 0.2; /* Adjust opacity as needed */
+        }
+        .profile.expanded .profile-header img {
+            position: static;
+            margin-right: 10px;
+            z-index: -1; /* Ensure images are in the background */
+            opacity: 0.2; /* Adjust opacity as needed */
+        }
+        .profile:not(.expanded) img {
+            bottom: 10px;
+            right: 10px;
+        }
+        .profile.expanded h2 {
+            margin: 0;
+        }
+
+        /* Style for the standard image in expanded profile */
+        .standard-image {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            width: 300px;
+            height: 300px;
+            border: 2px solid #FF9E00;
+            border-radius: 8px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1></h1>
+        <a href="/" class="home-btn">Home</a>
+    </header>
+    <div id="profiles">
+        <!-- Profiles will be dynamically inserted here -->
+    </div>
+    
+    <div class="overlay" id="overlay"></div>
+
+    <script>
+        const partyLookup = {
+            "Christlich-Soziale Union (CSU)": "CSU",
+            "Sozialdemokratische Partei Deutschlands (SPD)": "SPD",
+            "Freie Demokratische Partei (FDP)": "FDP",
+            "BÜNDNIS 90/DIE GRÜNEN": "B90G",
+            "DIE LINKE": "DL",
+            "Alternative für Deutschland (AfD)": "AFD",
+            "Freie Wähler": "FW",
+            "Parteilos": "PAL"
+        };
+        async function fetchProfiles(constituency) {
+            try {
+                const response = await fetch(`/api/profiles?constituency=${constituency}`);
+                const profiles = await response.json();
+                console.log('Profiles:', profiles);
+                renderProfiles(profiles);
+            } catch (error) {
+                console.error('Error fetching profiles:', error);
+            }
+        }
+
+        function createProfileContent(profile) {
+            const content = document.createElement('div');
+            for (const key in profile) {
+                if (key === 'history' || key === 'photo') continue;
+                const p = document.createElement('p');
+                p.innerHTML = `<strong>${capitalize(key)}:</strong> ${profile[key]}`;
+                content.appendChild(p);
+            }
+            return content;
+        }
+
+        function renderProfiles(profiles) {
+            const profilesContainer = document.getElementById('profiles');
+            profilesContainer.innerHTML = '';
+            profiles.forEach((profile) => {
+                const profileDiv = document.createElement('div');
+                profileDiv.className = 'profile';
+
+                const profileHeader = document.createElement('div');
+                profileHeader.className = 'profile-header';
+                
+                const svgImage = document.createElement('img');
+                svgImage.src = `/static/party_logos/${partyLookup[profile.party]}.svg`;
+                svgImage.alt = `${profile.party} logo`;
+                profileHeader.appendChild(svgImage);
+
+                const profileTitle = document.createElement('h2');
+                profileTitle.textContent = profile.name;
+                profileHeader.appendChild(profileTitle);
+
+                profileDiv.appendChild(profileHeader);
+                
+                const profileContent = createProfileContent(profile);
+                profileDiv.appendChild(profileContent);
+
+                const closeBtn = document.createElement('p');
+                closeBtn.className = 'close-btn';
+                closeBtn.innerHTML = '&times;';
+                profileDiv.appendChild(closeBtn);
+
+                profileDiv.addEventListener('click', () => expandProfile(profileDiv, profile));
+                profilesContainer.appendChild(profileDiv);
+            });
+        }
+
+        function capitalize(str) {
+            return str.charAt(0).toUpperCase() + str.slice(1);
+        }
+
+        function expandProfile(profileDiv, profile) {
+            profileDiv.classList.add('expanded');
+            const overlay = document.getElementById('overlay');
+            overlay.classList.add('visible');
+
+            profileDiv.innerHTML = `
+                <p class="close-btn" onclick="event.stopPropagation(); collapseProfile();">&times;</p>
+            `;
+            
+            const profileHeader = document.createElement('div');
+            profileHeader.className = 'profile-header';
+
+            const svgImage = document.createElement('img');
+            svgImage.src = `/static/party_logos/${partyLookup[profile.party]}.svg`;
+            svgImage.alt = `${profile.party} logo`;
+            profileHeader.appendChild(svgImage);
+
+            const profileTitle = document.createElement('h2');
+            profileTitle.textContent = profile.name;
+            profileHeader.appendChild(profileTitle);
+
+            profileDiv.appendChild(profileHeader);
+            
+            profileDiv.appendChild(createProfileContent(profile));
+
+            const historyDiv = document.createElement('div');
+            historyDiv.className = 'history';
+            historyDiv.innerHTML = '<h3>History</h3>';
+            profile.history.forEach(post => {
+                const postDiv = document.createElement('div');
+                postDiv.className = 'post';
+                postDiv.innerHTML = `
+                    <strong>${post.username}</strong><br>
+                    <p>${post.content}</p>
+                `;
+                historyDiv.appendChild(postDiv);
+            });
+            profileDiv.appendChild(historyDiv);
+
+            // Insert the standard image from the static folder
+            const standardImage = document.createElement('img');
+            standardImage.src = `/static/photos/${profile.photo}.jpeg`; // Update the path as needed
+            standardImage.alt = 'Standard Image';
+            standardImage.className = 'standard-image';
+            profileDiv.appendChild(standardImage);
+
+            overlay.addEventListener('click', collapseProfile);
+            profileDiv.querySelector('.close-btn').addEventListener('click', (e) => {
+                e.stopPropagation();
+                collapseProfile();
+            });
+
+            document.addEventListener('keydown', handleEscapeKey);
+        }
+
+        function collapseProfile() {
+            const expandedProfile = document.querySelector('.profile.expanded');
+            if (expandedProfile) {
+                expandedProfile.classList.remove('expanded');
+                const overlay = document.getElementById('overlay');
+                overlay.classList.remove('visible');
+                const url = new URL(window.location.href);
+                const constituency = url.pathname.split('/constituency/')[1];
+                fetchProfiles(constituency);
+
+                document.removeEventListener('keydown', handleEscapeKey);
+            }
+        }
+
+        function handleEscapeKey(event) {
+            if (event.key === 'Escape') {
+                collapseProfile();
+            }
+        }
+
+        function initialize() {
+            const url = new URL(window.location.href);
+            const constituency = url.pathname.split('/constituency/')[1];
+            const title = decodeURI(`Direktmandate des Wahlkreises: ${constituency}`);
+            document.title = title;
+            document.querySelector('header h1').textContent = title;
+            if (constituency) {
+                fetchProfiles(constituency);
+            }
+        }
+
+        window.onload = initialize;
+    </script>
+</body>
+</html>

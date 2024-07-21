@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Constituency Selector</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        #searchInput {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 20px;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            padding: 10px;
+            border: 1px solid #ddd;
+            margin-bottom: 5px;
+            cursor: pointer;
+        }
+        li:hover {
+            background-color: #f0f0f0;
+        }
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background-color: #FF9E00;
+            color: white;
+            padding: 20px;
+        }
+        header h1 {
+            margin: 0;
+        }
+        .home-btn {
+            color: white;
+            text-decoration: none;
+            font-size: 20px;
+        }
+    </style>
+</head>
+<body>
+<header>
+    <h1>Website für die Landtagswahl</h1>
+    <a href="/" class="home-btn">Home</a>
+</header>
+
+<input type="text" id="searchInput" placeholder="Search for constituencies...">
+
+<ul id="constituencyList">
+    <!-- List items will be generated dynamically by JavaScript -->
+</ul>
+
+<script>
+    // Fetch constituencies from the API
+    async function fetchConstituencies() {
+        try {
+            const response = await fetch('/api/constituencies');
+            if (!response.ok) {
+                throw new Error('Network response was not ok');
+            }
+            const constituencies = await response.json();
+            return constituencies;
+        } catch (error) {
+            console.error('Error fetching constituencies:', error);
+            return [];
+        }
+    }
+
+    // Display constituencies in the list
+    function displayConstituencies(constituencies) {
+        const constituencyList = document.getElementById('constituencyList');
+        constituencyList.innerHTML = ''; // Clear the existing list
+        constituencies.forEach(constituency => {
+            const li = document.createElement('li');
+            li.textContent = constituency;
+            li.addEventListener('click', function() {
+                // Redirect to a different website within the same backend
+                const baseUrl = '/constituency/'; // Base URL for redirection
+                const url = `${baseUrl}${encodeURIComponent(this.textContent)}`;
+                window.location.href = url;
+            });
+            constituencyList.appendChild(li);
+        });
+    }
+
+    // Filter constituencies based on search input
+    function filterConstituencies(constituencies, filter) {
+        return constituencies.filter(constituency => 
+            constituency.toLowerCase().includes(filter.toLowerCase())
+        );
+    }
+
+    // Initialize and load constituencies
+    async function initialize() {
+        const constituencies = await fetchConstituencies();
+        displayConstituencies(constituencies);
+
+        // Add event listener for search input
+        document.getElementById('searchInput').addEventListener('input', function() {
+            const filter = this.value;
+            const filteredConstituencies = filterConstituencies(constituencies, filter);
+            displayConstituencies(filteredConstituencies);
+        });
+    }
+
+    // Run initialize function when the page loads
+    window.onload = initialize;
+</script>
+
+</body>
+</html>

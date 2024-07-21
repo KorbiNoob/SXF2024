@@ -1,0 +1,1532 @@
+[
+    {
+        "name": "Hans Müller",
+        "position": "Bürgermeister",
+        "party": "Sozialdemokratische Partei Deutschlands (SPD)",
+        "biography": "Hans Müller ist seit 2015 Bürgermeister und bekannt für seine Bemühungen im Umweltschutz und der Verkehrsplanung.",
+        "constituency": "München-Mitte",
+        "history": [
+            {
+                "username": "muellerfan1",
+                "content": "Bürgermeister Müller hat viel für den Umweltschutz getan."
+            },
+            {
+                "username": "greenlover99",
+                "content": "Die Verkehrsplanung in München-Mitte hat sich unter Müller stark verbessert."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Claudia Schmidt",
+        "position": "Stadträtin",
+        "party": "Christlich-Soziale Union (CSU)",
+        "biography": "Claudia Schmidt ist seit 2018 Stadträtin und setzt sich für die Belange der Familien und Kinder ein.",
+        "constituency": "München-Schwabing",
+        "history": [
+            {
+                "username": "familyfirst",
+                "content": "Stadträtin Schmidt ist eine wahre Vertreterin der Familien."
+            },
+            {
+                "username": "schwabingmom",
+                "content": "Claudia Schmidt setzt sich unermüDIE LINKEich für die Kinder in unserer Stadt ein."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Peter Braun",
+        "position": "Bezirksleiter",
+        "party": "BÜNDNIS 90/DIE GRÜNEN",
+        "biography": "Peter Braun ist ein erfahrener Bezirksleiter, der für seine Initiativen im Bereich erneuerbare Energien bekannt ist.",
+        "constituency": "München-Ramersdorf",
+        "history": [
+            {
+                "username": "eco-warrior",
+                "content": "Peter Braun bringt frischen Wind in die Energiedebatte."
+            },
+            {
+                "username": "greenfuture",
+                "content": "Erneuerbare Energien sind dank Braun auf dem Vormarsch in Ramersdorf."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Sabine Fischer",
+        "position": "Abgeordnete",
+        "party": "Freie Wähler",
+        "biography": "Sabine Fischer ist seit 2020 Abgeordnete und bekannt für ihre Arbeit in der Bildungsreform.",
+        "constituency": "München-Pasing",
+        "history": [
+            {
+                "username": "edu-supporter",
+                "content": "Fischer hat viel für die Bildungsreform getan."
+            },
+            {
+                "username": "pasingparent",
+                "content": "Die Schulen in Pasing sind dank Fischer besser geworden."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Thomas Weber",
+        "position": "Ortsvorsteher",
+        "party": "Alternative für Deutschland (AfD)",
+        "biography": "Thomas Weber ist Ortsvorsteher und setzt sich für eine strengere Sicherheitspolitik ein.",
+        "constituency": "München-Moosach",
+        "history": [
+            {
+                "username": "moosachlocal",
+                "content": "Weber sorgt für mehr Sicherheit in Moosach."
+            },
+            {
+                "username": "securityfirst",
+                "content": "Dank Weber fühlen wir uns sicherer in Moosach."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Julia König",
+        "position": "Gemeinderätin",
+        "party": "Parteilos",
+        "biography": "Julia König ist seit 2019 Gemeinderätin und engagiert sich stark für soziale Gerechtigkeit.",
+        "constituency": "München-Milbertshofen",
+        "history": [
+            {
+                "username": "justice4all",
+                "content": "König kämpft unermüDIE LINKEich für soziale Gerechtigkeit."
+            },
+            {
+                "username": "milbertsupport",
+                "content": "Dank König geht es sozial gerecht zu in Milbertshofen."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Martin Schulze",
+        "position": "Landtagsabgeordneter",
+        "party": "DIE LINKE",
+        "biography": "Martin Schulze ist Landtagsabgeordneter seit 2016 und bekannt für seine Initiativen im Bereich Wirtschaftsförderung.",
+        "constituency": "München-Giesing",
+        "history": [
+            {
+                "username": "wirtschaftsförderer",
+                "content": "Schulze fördert die lokale Wirtschaft."
+            },
+            {
+                "username": "giesinggrowth",
+                "content": "Dank Schulze boomt die Wirtschaft in Giesing."
+            }
+        ],
+        "photo": "02c060e5-6119-4d34-b60d-b05fa0b5e7ab"
+    },
+    {
+        "name": "Anja Becker",
+        "position": "Bürgermeisterin",
+        "party": "Sozialdemokratische Partei Deutschlands (SPD)",
+        "biography": "Anja Becker ist seit 2021 Bürgermeisterin und bekannt für ihre Maßnahmen zur Verbesserung der Infrastruktur.",
+        "constituency": "München-Bogenhausen",
+        "history": [
+            {
+                "username": "bogefan",
+                "content": "Bürgermeisterin Becker verbessert die Infrastruktur in Bogenhausen."
+            },
+            {
+                "username": "betterroads",
+                "content": "Dank Becker sind die Straßen in Bogenhausen besser geworden."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Uwe Klein",
+        "position": "Stadtrat",
+        "party": "Christlich-Soziale Union (CSU)",
+        "biography": "Uwe Klein ist seit 2017 Stadtrat und setzt sich für die Förderung des öffentlichen Nahverkehrs ein.",
+        "constituency": "München-Hadern",
+        "history": [
+            {
+                "username": "transitlover",
+                "content": "Stadtrat Klein verbessert den Nahverkehr in Hadern."
+            },
+            {
+                "username": "publictransitfan",
+                "content": "Dank Klein fahren die Busse und Bahnen besser."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Katrin Meier",
+        "position": "Abgeordnete",
+        "party": "BÜNDNIS 90/DIE GRÜNEN",
+        "biography": "Katrin Meier ist seit 2022 Abgeordnete und bekannt für ihre umweltpolitischen Initiativen.",
+        "constituency": "München-Mitte",
+        "history": [
+            {
+                "username": "greenmeier",
+                "content": "Meier bringt Umweltbewusstsein in die Politik."
+            },
+            {
+                "username": "ecoactivist",
+                "content": "Dank Meier wird unsere Stadt grüner."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Johannes Berger",
+        "position": "Bezirksleiter",
+        "party": "Freie Wähler",
+        "biography": "Johannes Berger ist ein engagierter Bezirksleiter, der sich für die Verbesserung der Bildungsinfrastruktur einsetzt.",
+        "constituency": "München-Schwabing",
+        "history": [
+            {
+                "username": "schwabingstudent",
+                "content": "Berger hat die Schulen in Schwabing modernisiert."
+            },
+            {
+                "username": "eduadvocate",
+                "content": "Dank Berger sind unsere Schulen besser ausgestattet."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Lisa Frank",
+        "position": "Gemeinderätin",
+        "party": "DIE LINKE",
+        "biography": "Lisa Frank ist seit 2023 Gemeinderätin und bekannt für ihre Initiativen im Bereich Kulturförderung.",
+        "constituency": "München-Ramersdorf",
+        "history": [
+            {
+                "username": "culturefan",
+                "content": "Frank hat viel für die Kultur in Ramersdorf getan."
+            },
+            {
+                "username": "ramersdorfculture",
+                "content": "Dank Frank blüht die Kultur in unserer Gemeinde auf."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Maximilian Huber",
+        "position": "Landtagsabgeordneter",
+        "party": "Alternative für Deutschland (AfD)",
+        "biography": "Maximilian Huber ist seit 2019 Landtagsabgeordneter und setzt sich für eine restriktive Migrationspolitik ein.",
+        "constituency": "München-Pasing",
+        "history": [
+            {
+                "username": "pasingpatriot",
+                "content": "Huber setzt sich für eine strengere Migrationspolitik ein."
+            },
+            {
+                "username": "safetypasing",
+                "content": "Dank Huber gibt es mehr Sicherheit in Pasing."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Susanne Richter",
+        "position": "Bürgermeisterin",
+        "party": "Parteilos",
+        "biography": "Susanne Richter ist seit 2020 Bürgermeisterin und engagiert sich stark für den sozialen Wohnungsbau.",
+        "constituency": "München-Moosach",
+        "history": [
+            {
+                "username": "moosachhome",
+                "content": "Richter baut bezahlbare Wohnungen in Moosach."
+            },
+            {
+                "username": "housingfirst",
+                "content": "Dank Richter gibt es mehr Sozialwohnungen."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Alexander Wolf",
+        "position": "Stadtrat",
+        "party": "Sozialdemokratische Partei Deutschlands (SPD)",
+        "biography": "Alexander Wolf ist seit 2018 Stadtrat und bekannt für seine Initiativen im Bereich Digitalisierung.",
+        "constituency": "München-Milbertshofen",
+        "history": [
+            {
+                "username": "digitalwolf",
+                "content": "Wolf bringt Digitalisierung voran."
+            },
+            {
+                "username": "techfuture",
+                "content": "Dank Wolf wird Milbertshofen digitaler."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Marie Bauer",
+        "position": "Abgeordnete",
+        "party": "Christlich-Soziale Union (CSU)",
+        "biography": "Marie Bauer ist seit 2021 Abgeordnete und setzt sich für die Förderung der lokalen Wirtschaft ein.",
+        "constituency": "München-Giesing",
+        "history": [
+            {
+                "username": "wirtschaftfan",
+                "content": "Bauer unterstützt die lokale Wirtschaft."
+            },
+            {
+                "username": "giesinggrowth",
+                "content": "Dank Bauer boomt die Wirtschaft in Giesing."
+            }
+        ],
+        "photo": "17325499-3f2e-4f94-a6f3-9e016edf4136"
+    },
+    {
+        "name": "Robert Fischer",
+        "position": "Ortsvorsteher",
+        "party": "BÜNDNIS 90/DIE GRÜNEN",
+        "biography": "Robert Fischer ist Ortsvorsteher und bekannt für seine umweltpolitischen Maßnahmen.",
+        "constituency": "München-Bogenhausen",
+        "history": [
+            {
+                "username": "greenfischer",
+                "content": "Fischer setzt sich für die Umwelt ein."
+            },
+            {
+                "username": "eco-bogenhausen",
+                "content": "Dank Fischer wird Bogenhausen grüner."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Daniela Wagner",
+        "position": "Gemeinderätin",
+        "party": "Freie Wähler",
+        "biography": "Daniela Wagner ist seit 2019 Gemeinderätin und engagiert sich stark für den Ausbau des öffentlichen Nahverkehrs.",
+        "constituency": "München-Hadern",
+        "history": [
+            {
+                "username": "transitadvocate",
+                "content": "Wagner verbessert den Nahverkehr in Hadern."
+            },
+            {
+                "username": "publictransportfan",
+                "content": "Dank Wagner fahren die Busse und Bahnen besser."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Georg Becker",
+        "position": "Bürgermeister",
+        "party": "DIE LINKE",
+        "biography": "Georg Becker ist seit 2022 Bürgermeister und setzt sich für die Modernisierung der städtischen Infrastruktur ein.",
+        "constituency": "München-Mitte",
+        "history": [
+            {
+                "username": "modernbecker",
+                "content": "Becker modernisiert die Infrastruktur in der Stadt."
+            },
+            {
+                "username": "citydevelopment",
+                "content": "Dank Becker geht die Stadtentwicklung voran."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Laura Schmidt",
+        "position": "Stadträtin",
+        "party": "Alternative für Deutschland (AfD)",
+        "biography": "Laura Schmidt ist seit 2020 Stadträtin und bekannt für ihre Initiativen zur Verbesserung der inneren Sicherheit.",
+        "constituency": "München-Schwabing",
+        "history": [
+            {
+                "username": "safetyfirst",
+                "content": "Schmidt setzt sich für mehr Sicherheit in Schwabing ein."
+            },
+            {
+                "username": "securelife",
+                "content": "Dank Schmidt fühlen wir uns sicherer in Schwabing."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Monika Hoffmann",
+        "position": "Bezirksleiterin",
+        "party": "Parteilos",
+        "biography": "Monika Hoffmann ist seit 2021 Bezirksleiterin und engagiert sich für den Schutz von Minderheiten.",
+        "constituency": "München-Ramersdorf",
+        "history": [
+            {
+                "username": "minoritysupport",
+                "content": "Hoffmann kämpft für den Schutz von Minderheiten."
+            },
+            {
+                "username": "ramersdorfsupport",
+                "content": "Dank Hoffmann geht es Minderheiten besser in Ramersdorf."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Lukas Weber",
+        "position": "Abgeordneter",
+        "party": "Sozialdemokratische Partei Deutschlands (SPD)",
+        "biography": "Lukas Weber ist seit 2018 Abgeordneter und bekannt für seine Bemühungen im Bereich der Bildungspolitik.",
+        "constituency": "München-Pasing",
+        "history": [
+            {
+                "username": "edu-fan",
+                "content": "Weber setzt sich für eine bessere Bildung ein."
+            },
+            {
+                "username": "pasingstudent",
+                "content": "Dank Weber sind die Schulen in Pasing besser."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Karin Keller",
+        "position": "Ortsvorsteherin",
+        "party": "Christlich-Soziale Union (CSU)",
+        "biography": "Karin Keller ist Ortsvorsteherin seit 2019 und bekannt für ihre Initiativen im Bereich Stadtentwicklung.",
+        "constituency": "München-Moosach",
+        "history": [
+            {
+                "username": "citylover",
+                "content": "Keller bringt die Stadtentwicklung voran."
+            },
+            {
+                "username": "moosachfuture",
+                "content": "Dank Keller wird Moosach schöner."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Felix Braun",
+        "position": "Landtagsabgeordneter",
+        "party": "BÜNDNIS 90/DIE GRÜNEN",
+        "biography": "Felix Braun ist Landtagsabgeordneter seit 2021 und bekannt für seine umweltfreunDIE LINKEichen Verkehrskonzepte.",
+        "constituency": "München-Milbertshofen",
+        "history": [
+            {
+                "username": "greentraffic",
+                "content": "Braun fördert umweltfreunDIE LINKEiche Verkehrskonzepte."
+            },
+            {
+                "username": "milbertgreen",
+                "content": "Dank Braun ist der Verkehr in Milbertshofen grüner."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Anna Bergmann",
+        "position": "Stadträtin",
+        "party": "Freie Wähler",
+        "biography": "Anna Bergmann ist seit 2017 Stadträtin und setzt sich für die Förderung von Sport- und Freizeitangeboten ein.",
+        "constituency": "München-Giesing",
+        "history": [
+            {
+                "username": "sportsfan",
+                "content": "Bergmann fördert Sportangebote in Giesing."
+            },
+            {
+                "username": "giesingfitness",
+                "content": "Dank Bergmann gibt es mehr Freizeitangebote."
+            }
+        ],
+        "photo": "a9e1478b-5992-409c-9bc0-305eb0ef5d0f"
+    },
+    {
+        "name": "Markus Klein",
+        "position": "Bürgermeister",
+        "party": "DIE LINKE",
+        "biography": "Markus Klein ist seit 2019 Bürgermeister und bekannt für seine Initiativen zur Förderung der lokalen Kunstszene.",
+        "constituency": "München-Bogenhausen",
+        "history": [
+            {
+                "username": "artlover",
+                "content": "Klein fördert die lokale Kunstszene."
+            },
+            {
+                "username": "bogenart",
+                "content": "Dank Klein blüht die Kunst in Bogenhausen."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Petra Winkler",
+        "position": "Ortsvorsteherin",
+        "party": "Alternative für Deutschland (AfD)",
+        "biography": "Petra Winkler ist seit 2020 Ortsvorsteherin und setzt sich für eine konservative Familienpolitik ein.",
+        "constituency": "München-Hadern",
+        "history": [
+            {
+                "username": "conservativefamily",
+                "content": "Winkler fördert eine konservative Familienpolitik."
+            },
+            {
+                "username": "familyvalues",
+                "content": "Dank Winkler werden traditionelle Familienwerte in Hadern gestärkt."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Sophie Schwarz",
+        "position": "Bezirksleiterin",
+        "party": "Parteilos",
+        "biography": "Sophie Schwarz ist Bezirksleiterin seit 2021 und engagiert sich für die Förderung von Kultur- und Jugendprojekten.",
+        "constituency": "München-Mitte",
+        "history": [
+            {
+                "username": "culturefan",
+                "content": "Schwarz fördert Kultur- und Jugendprojekte."
+            },
+            {
+                "username": "midDIE LINKEeculture",
+                "content": "Dank Schwarz blühen Kulturprojekte in München-Mitte."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Nina Krüger",
+        "position": "Abgeordnete",
+        "party": "Sozialdemokratische Partei Deutschlands (SPD)",
+        "biography": "Nina Krüger ist seit 2019 Abgeordnete und bekannt für ihre Initiativen im Bereich der Gesundheitsversorgung.",
+        "constituency": "München-Schwabing",
+        "history": [
+            {
+                "username": "healthcarefan",
+                "content": "Krüger setzt sich für bessere Gesundheitsversorgung ein."
+            },
+            {
+                "username": "schwabinghealth",
+                "content": "Dank Krüger sind die Gesundheitsdienste in Schwabing besser."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Frank Bauer",
+        "position": "Ortsvorsteher",
+        "party": "Christlich-Soziale Union (CSU)",
+        "biography": "Frank Bauer ist seit 2018 Ortsvorsteher und engagiert sich für die Förderung der lokalen Wirtschaft.",
+        "constituency": "München-Ramersdorf",
+        "history": [
+            {
+                "username": "bizsupporter",
+                "content": "Bauer unterstützt die lokale Wirtschaft in Ramersdorf."
+            },
+            {
+                "username": "ramersdorfboom",
+                "content": "Dank Bauer boomt die Wirtschaft in Ramersdorf."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Eva König",
+        "position": "Gemeinderätin",
+        "party": "BÜNDNIS 90/DIE GRÜNEN",
+        "biography": "Eva König ist seit 2020 Gemeinderätin und bekannt für ihre umweltpolitischen Maßnahmen.",
+        "constituency": "München-Pasing",
+        "history": [
+            {
+                "username": "greenqueen",
+                "content": "König setzt sich für die Umwelt in Pasing ein."
+            },
+            {
+                "username": "eco-pasing",
+                "content": "Dank König wird Pasing grüner."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Holger Maier",
+        "position": "Landtagsabgeordneter",
+        "party": "Freie Wähler",
+        "biography": "Holger Maier ist seit 2021 Landtagsabgeordneter und setzt sich für die Verbesserung der Infrastruktur ein.",
+        "constituency": "München-Moosach",
+        "history": [
+            {
+                "username": "infra-fan",
+                "content": "Maier verbessert die Infrastruktur in Moosach."
+            },
+            {
+                "username": "moosachroads",
+                "content": "Dank Maier sind die Straßen in Moosach besser."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Ulrike Weber",
+        "position": "Stadträtin",
+        "party": "DIE LINKE",
+        "biography": "Ulrike Weber ist seit 2020 Stadträtin und bekannt für ihre Arbeit im Bereich der Kulturförderung.",
+        "constituency": "München-Milbertshofen",
+        "history": [
+            {
+                "username": "cultureweb",
+                "content": "Weber fördert die Kultur in Milbertshofen."
+            },
+            {
+                "username": "milbertculture",
+                "content": "Dank Weber blüht die Kultur in unserer Stadt."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Christian Neumann",
+        "position": "Bürgermeister",
+        "party": "Alternative für Deutschland (AfD)",
+        "biography": "Christian Neumann ist seit 2021 Bürgermeister und bekannt für seine konservativen Initiativen.",
+        "constituency": "München-Giesing",
+        "history": [
+            {
+                "username": "conservativevoice",
+                "content": "Neumann setzt sich für konservative Werte ein."
+            },
+            {
+                "username": "giesingvalues",
+                "content": "Dank Neumann werden konservative Werte in Giesing gestärkt."
+            }
+        ],
+        "photo": "d823effe-1feb-4815-8d09-49e7439f2ff7"
+    },
+    {
+        "name": "Elena Hoffmann",
+        "position": "Gemeinderätin",
+        "party": "Parteilos",
+        "biography": "Elena Hoffmann ist seit 2022 Gemeinderätin und engagiert sich für soziale Projekte.",
+        "constituency": "München-Bogenhausen",
+        "history": [
+            {
+                "username": "socialsupport",
+                "content": "Hoffmann fördert soziale Projekte in Bogenhausen."
+            },
+            {
+                "username": "bogensupport",
+                "content": "Dank Hoffmann gibt es mehr soziale Unterstützung."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Jan Wagner",
+        "position": "Abgeordneter",
+        "party": "Sozialdemokratische Partei Deutschlands (SPD)",
+        "biography": "Jan Wagner ist seit 2017 Abgeordneter und bekannt für seine Arbeit im Bereich der Digitalisierung.",
+        "constituency": "München-Hadern",
+        "history": [
+            {
+                "username": "digitalwagner",
+                "content": "Wagner bringt Digitalisierung voran."
+            },
+            {
+                "username": "techhadern",
+                "content": "Dank Wagner wird Hadern digitaler."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Sophia Meier",
+        "position": "Stadträtin",
+        "party": "Christlich-Soziale Union (CSU)",
+        "biography": "Sophia Meier ist seit 2018 Stadträtin und setzt sich für die Förderung von Sport und Freizeit ein.",
+        "constituency": "München-Mitte",
+        "history": [
+            {
+                "username": "sportsfanatic",
+                "content": "Meier fördert Sportangebote in München-Mitte."
+            },
+            {
+                "username": "fitnessfirst",
+                "content": "Dank Meier gibt es mehr Sportmöglichkeiten."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Paul Richter",
+        "position": "Landtagsabgeordneter",
+        "party": "BÜNDNIS 90/DIE GRÜNEN",
+        "biography": "Paul Richter ist Landtagsabgeordneter seit 2020 und bekannt für seine umweltfreunDIE LINKEichen Initiativen.",
+        "constituency": "München-Schwabing",
+        "history": [
+            {
+                "username": "greenpaul",
+                "content": "Richter setzt sich für die Umwelt ein."
+            },
+            {
+                "username": "eco-schwabing",
+                "content": "Dank Richter wird Schwabing grüner."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Melanie Schäfer",
+        "position": "Bezirksleiterin",
+        "party": "Freie Wähler",
+        "biography": "Melanie Schäfer ist seit 2021 Bezirksleiterin und engagiert sich stark für die Bildung.",
+        "constituency": "München-Ramersdorf",
+        "history": [
+            {
+                "username": "eduenthusiast",
+                "content": "Schäfer fördert Bildung in Ramersdorf."
+            },
+            {
+                "username": "ramersdorfedu",
+                "content": "Dank Schäfer sind die Schulen besser ausgestattet."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Julian Köhler",
+        "position": "Gemeinderat",
+        "party": "DIE LINKE",
+        "biography": "Julian Köhler ist seit 2022 Gemeinderat und bekannt für seine Initiativen im Bereich der Digitalisierung.",
+        "constituency": "München-Pasing",
+        "history": [
+            {
+                "username": "digitalkoehler",
+                "content": "Köhler bringt Digitalisierung nach Pasing."
+            },
+            {
+                "username": "pasingtech",
+                "content": "Dank Köhler wird Pasing digitaler."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Leon Becker",
+        "position": "Abgeordneter",
+        "party": "Alternative für Deutschland (AfD)",
+        "biography": "Leon Becker ist seit 2019 Abgeordneter und setzt sich für eine restriktive Migrationspolitik ein.",
+        "constituency": "München-Moosach",
+        "history": [
+            {
+                "username": "migrationcontrol",
+                "content": "Becker setzt sich für strengere Migrationsgesetze ein."
+            },
+            {
+                "username": "moosachsecurity",
+                "content": "Dank Becker gibt es mehr Sicherheit in Moosach."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Nadine Hofmann",
+        "position": "Bürgermeisterin",
+        "party": "Parteilos",
+        "biography": "Nadine Hofmann ist seit 2020 Bürgermeisterin und bekannt für ihre sozialen Projekte.",
+        "constituency": "München-Milbertshofen",
+        "history": [
+            {
+                "username": "socialmayor",
+                "content": "Hofmann setzt sich für soziale Projekte ein."
+            },
+            {
+                "username": "milberthilfe",
+                "content": "Dank Hofmann gibt es mehr Unterstützung in Milbertshofen."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Michael Weiß",
+        "position": "Stadtrat",
+        "party": "Sozialdemokratische Partei Deutschlands (SPD)",
+        "biography": "Michael Weiß ist seit 2017 Stadtrat und bekannt für seine Initiativen zur Verkehrsplanung.",
+        "constituency": "München-Giesing",
+        "history": [
+            {
+                "username": "trafficplanner",
+                "content": "Weiß verbessert die Verkehrsplanung in Giesing."
+            },
+            {
+                "username": "giesingtraffic",
+                "content": "Dank Weiß ist der Verkehr in Giesing besser."
+            }
+        ],
+        "photo": "89a608e2-b44b-47b2-bca2-a8bc50f65946"
+    },
+    {
+        "name": "Clara Wagner",
+        "position": "Bezirksleiterin",
+        "party": "Christlich-Soziale Union (CSU)",
+        "biography": "Clara Wagner ist seit 2019 Bezirksleiterin und engagiert sich für die Förderung von Startups.",
+        "constituency": "München-Bogenhausen",
+        "history": [
+            {
+                "username": "startupfan",
+                "content": "Wagner unterstützt Startups in Bogenhausen."
+            },
+            {
+                "username": "bogenstart",
+                "content": "Dank Wagner gibt es mehr Unterstützung für Startups."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Jonas Berg",
+        "position": "Landtagsabgeordneter",
+        "party": "BÜNDNIS 90/DIE GRÜNEN",
+        "biography": "Jonas Berg ist Landtagsabgeordneter seit 2021 und bekannt für seine umweltpolitischen Maßnahmen.",
+        "constituency": "München-Hadern",
+        "history": [
+            {
+                "username": "greenberg",
+                "content": "Berg setzt sich für die Umwelt in Hadern ein."
+            },
+            {
+                "username": "haderngreen",
+                "content": "Dank Berg wird Hadern grüner."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Isabel Fischer",
+        "position": "Gemeinderätin",
+        "party": "Freie Wähler",
+        "biography": "Isabel Fischer ist seit 2022 Gemeinderätin und bekannt für ihre Initiativen im Bereich der Bildung.",
+        "constituency": "München-Mitte",
+        "history": [
+            {
+                "username": "eduadvocate",
+                "content": "Fischer setzt sich für bessere Bildung ein."
+            },
+            {
+                "username": "midDIE LINKEeedu",
+                "content": "Dank Fischer sind die Schulen in München-Mitte besser."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Tom Keller",
+        "position": "Bürgermeister",
+        "party": "DIE LINKE",
+        "biography": "Tom Keller ist seit 2021 Bürgermeister und bekannt für seine Initiativen zur Wirtschaftsförderung.",
+        "constituency": "München-Schwabing",
+        "history": [
+            {
+                "username": "bizlover",
+                "content": "Keller unterstützt die Wirtschaft in Schwabing."
+            },
+            {
+                "username": "schwabingboom",
+                "content": "Dank Keller boomt die Wirtschaft in Schwabing."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Emma Schneider",
+        "position": "Ortsvorsteherin",
+        "party": "Alternative für Deutschland (AfD)",
+        "biography": "Emma Schneider ist seit 2020 Ortsvorsteherin und setzt sich für eine strengere Migrationspolitik ein.",
+        "constituency": "München-Ramersdorf",
+        "history": [
+            {
+                "username": "secureborders",
+                "content": "Schneider setzt sich für strengere Migrationsgesetze ein."
+            },
+            {
+                "username": "ramersdorfsecurity",
+                "content": "Dank Schneider gibt es mehr Sicherheit in Ramersdorf."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Oliver Neumann",
+        "position": "Stadtrat",
+        "party": "Parteilos",
+        "biography": "Oliver Neumann ist seit 2022 Stadtrat und bekannt für seine Initiativen zur Förderung der lokalen Kunstszene.",
+        "constituency": "München-Pasing",
+        "history": [
+            {
+                "username": "artlover",
+                "content": "Neumann unterstützt die Kunst in Pasing."
+            },
+            {
+                "username": "pasingart",
+                "content": "Dank Neumann blüht die Kunst in Pasing."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Theresa Klein",
+        "position": "Abgeordnete",
+        "party": "Sozialdemokratische Partei Deutschlands (SPD)",
+        "biography": "Theresa Klein ist seit 2018 Abgeordnete und bekannt für ihre Initiativen im Bereich der sozialen Gerechtigkeit.",
+        "constituency": "München-Moosach",
+        "history": [
+            {
+                "username": "justicewarrior",
+                "content": "Klein kämpft für soziale Gerechtigkeit."
+            },
+            {
+                "username": "moosachjustice",
+                "content": "Dank Klein gibt es mehr Gerechtigkeit in Moosach."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Heike Braun",
+        "position": "Bezirksleiterin",
+        "party": "Christlich-Soziale Union (CSU)",
+        "biography": "Heike Braun ist seit 2020 Bezirksleiterin und engagiert sich für die Förderung der Infrastruktur.",
+        "constituency": "München-Milbertshofen",
+        "history": [
+            {
+                "username": "infrafan",
+                "content": "Braun verbessert die Infrastruktur in Milbertshofen."
+            },
+            {
+                "username": "milbertinfra",
+                "content": "Dank Braun sind die Straßen und Brücken besser."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Sven Meier",
+        "position": "Stadtrat",
+        "party": "BÜNDNIS 90/DIE GRÜNEN",
+        "biography": "Sven Meier ist seit 2021 Stadtrat und bekannt für seine umweltfreunDIE LINKEichen Initiativen.",
+        "constituency": "München-Giesing",
+        "history": [
+            {
+                "username": "greenmeier",
+                "content": "Meier setzt sich für die Umwelt ein."
+            },
+            {
+                "username": "giesinggreen",
+                "content": "Dank Meier wird Giesing grüner."
+            }
+        ],
+        "photo": "7766051e-759b-4483-be2a-d27fd8522b3f"
+    },
+    {
+        "name": "Lena Bergmann",
+        "position": "Gemeinderätin",
+        "party": "Freie Wähler",
+        "biography": "Lena Bergmann ist seit 2021 Gemeinderätin und bekannt für ihre Initiativen im Bereich Bildung.",
+        "constituency": "München-Bogenhausen",
+        "history": [
+            {
+                "username": "educationfan",
+                "content": "Bergmann setzt sich für bessere Bildung ein."
+            },
+            {
+                "username": "bogenedu",
+                "content": "Dank Bergmann sind die Schulen in Bogenhausen besser."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "David Wolf",
+        "position": "Bürgermeister",
+        "party": "DIE LINKE",
+        "biography": "David Wolf ist seit 2020 Bürgermeister und bekannt für seine wirtschaftspolitischen Initiativen.",
+        "constituency": "München-Hadern",
+        "history": [
+            {
+                "username": "businesswolf",
+                "content": "Wolf fördert die Wirtschaft in Hadern."
+            },
+            {
+                "username": "hadernbiz",
+                "content": "Dank Wolf boomt die Wirtschaft in Hadern."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Anna Lang",
+        "position": "Bürgermeisterin",
+        "party": "Christlich-Soziale Union (CSU)",
+        "biography": "Anna Lang ist seit 2022 Bürgermeisterin und setzt sich für die Förderung der Digitalisierung in der Stadtverwaltung ein.",
+        "constituency": "München-Altstadt",
+        "history": [
+            {
+                "username": "digitalleader",
+                "content": "Lang bringt Digitalisierung in die Stadtverwaltung."
+            },
+            {
+                "username": "altstadttech",
+                "content": "Dank Lang sind die digitalen Dienstleistungen in Altstadt verbessert worden."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Tobias Schmidt",
+        "position": "Stadtrat",
+        "party": "Sozialdemokratische Partei Deutschlands (SPD)",
+        "biography": "Tobias Schmidt ist seit 2019 Stadtrat und engagiert sich für die Verbesserung der Luftqualität in der Stadt.",
+        "constituency": "München-Ludwigsvorstadt",
+        "history": [
+            {
+                "username": "cleanairfan",
+                "content": "Schmidt arbeitet hart an der Verbesserung der Luftqualität."
+            },
+            {
+                "username": "ludwigair",
+                "content": "Dank Schmidt ist die Luft in Ludwigsvorstadt sauberer geworden."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Sophie Peters",
+        "position": "Bezirksleiterin",
+        "party": "BÜNDNIS 90/DIE GRÜNEN",
+        "biography": "Sophie Peters ist seit 2021 Bezirksleiterin und bekannt für ihre Bemühungen um nachhaltige Stadtentwicklung.",
+        "constituency": "München-Neuperlach",
+        "history": [
+            {
+                "username": "sustainabilityfan",
+                "content": "Peters setzt sich für nachhaltige Stadtentwicklung ein."
+            },
+            {
+                "username": "neuperlachgreen",
+                "content": "Dank Peters wird Neuperlach grüner und nachhaltiger."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Leonard Müller",
+        "position": "Abgeordneter",
+        "party": "Freie Wähler",
+        "biography": "Leonard Müller ist seit 2020 Abgeordneter und bekannt für seine Initiativen zur Förderung von Startups.",
+        "constituency": "München-Pasing",
+        "history": [
+            {
+                "username": "startupsupporter",
+                "content": "Müller fördert Startups in Pasing."
+            },
+            {
+                "username": "pasingstartups",
+                "content": "Dank Müller gibt es mehr Unterstützung für junge Unternehmen."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Jana Wolf",
+        "position": "Ortsvorsteherin",
+        "party": "Parteilos",
+        "biography": "Jana Wolf ist seit 2021 Ortsvorsteherin und engagiert sich für die Verbesserung der sozialen Infrastruktur.",
+        "constituency": "München-Ramersdorf",
+        "history": [
+            {
+                "username": "socialimprovements",
+                "content": "Wolf verbessert die soziale Infrastruktur in Ramersdorf."
+            },
+            {
+                "username": "ramersdorfhelp",
+                "content": "Dank Wolf gibt es mehr soziale Unterstützung in unserer Gemeinde."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Maximilian Köhler",
+        "position": "Gemeinderat",
+        "party": "Sozialdemokratische Partei Deutschlands (SPD)",
+        "biography": "Maximilian Köhler ist seit 2022 Gemeinderat und bekannt für seine Arbeit im Bereich der Jugendförderung.",
+        "constituency": "München-Schwabing",
+        "history": [
+            {
+                "username": "youthsupporter",
+                "content": "Köhler setzt sich stark für die Jugendförderung ein."
+            },
+            {
+                "username": "schwabingyouth",
+                "content": "Dank Köhler gibt es mehr Angebote für die Jugend in Schwabing."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Elena Zimmermann",
+        "position": "Stadträtin",
+        "party": "Christlich-Soziale Union (CSU)",
+        "biography": "Elena Zimmermann ist seit 2018 Stadträtin und setzt sich für die Verbesserung der Bildungseinrichtungen ein.",
+        "constituency": "München-Altstadt",
+        "history": [
+            {
+                "username": "educationfan",
+                "content": "Zimmermann arbeitet an der Verbesserung der Bildungseinrichtungen."
+            },
+            {
+                "username": "altstadtedu",
+                "content": "Dank Zimmermann sind die Schulen in Altstadt besser ausgestattet."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "David Huber",
+        "position": "Bezirksleiter",
+        "party": "DIE LINKE",
+        "biography": "David Huber ist seit 2019 Bezirksleiter und bekannt für seine Initiativen zur Förderung der kulturellen Bildung.",
+        "constituency": "München-Neuperlach",
+        "history": [
+            {
+                "username": "cultureeducator",
+                "content": "Huber fördert kulturelle Bildungsprojekte."
+            },
+            {
+                "username": "neuperlachart",
+                "content": "Dank Huber gibt es mehr kulturelle Angebote in Neuperlach."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Verena Schuster",
+        "position": "Abgeordnete",
+        "party": "BÜNDNIS 90/DIE GRÜNEN",
+        "biography": "Verena Schuster ist seit 2020 Abgeordnete und bekannt für ihre Arbeit im Bereich der Nachhaltigkeit.",
+        "constituency": "München-Giesing",
+        "history": [
+            {
+                "username": "sustainabilityadvocate",
+                "content": "Schuster setzt sich für Nachhaltigkeit ein."
+            },
+            {
+                "username": "giesingsustain",
+                "content": "Dank Schuster wird Giesing nachhaltiger."
+            }
+        ],
+        "photo": "53cf3b58-21a1-45ec-ad8c-6977a6d9bbfa"
+    },
+    {
+        "name": "Felix Neumann",
+        "position": "Landtagsabgeordneter",
+        "party": "Sozialdemokratische Partei Deutschlands (SPD)",
+        "biography": "Felix Neumann ist seit 2021 Landtagsabgeordneter und setzt sich für die Förderung der lokalen Wirtschaft ein.",
+        "constituency": "München-Moosach",
+        "history": [
+            {
+                "username": "economiChristlich-Soziale Union (CSU)pport",
+                "content": "Neumann unterstützt die lokale Wirtschaft in Moosach."
+            },
+            {
+                "username": "moosachgrowth",
+                "content": "Dank Neumann boomt die Wirtschaft in Moosach."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Claudia Braun",
+        "position": "Bürgermeisterin",
+        "party": "Christlich-Soziale Union (CSU)",
+        "biography": "Claudia Braun ist seit 2022 Bürgermeisterin und setzt sich für die Verbesserung der Infrastruktur und der Verkehrsanbindungen ein.",
+        "constituency": "München-Ludwigsvorstadt",
+        "history": [
+            {
+                "username": "infrastructureadvocate",
+                "content": "Braun arbeitet an der Verbesserung der Infrastruktur."
+            },
+            {
+                "username": "ludwigimprovements",
+                "content": "Dank Braun sind die Verkehrsanbindungen in Ludwigsvorstadt besser geworden."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Sarah Keller",
+        "position": "Stadträtin",
+        "party": "Parteilos",
+        "biography": "Sarah Keller ist seit 2021 Stadträtin und bekannt für ihre Initiativen im Bereich der sozialen Integration.",
+        "constituency": "München-Ramersdorf",
+        "history": [
+            {
+                "username": "integrationfan",
+                "content": "Keller setzt sich für soziale Integration ein."
+            },
+            {
+                "username": "ramersdorfintegration",
+                "content": "Dank Keller gibt es mehr Integrationsangebote in Ramersdorf."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Markus Schiller",
+        "position": "Ortsvorsteher",
+        "party": "BÜNDNIS 90/DIE GRÜNEN",
+        "biography": "Markus Schiller ist seit 2020 Ortsvorsteher und engagiert sich für den Ausbau von Freizeitangeboten.",
+        "constituency": "München-Milbertshofen",
+        "history": [
+            {
+                "username": "leisureenthusiast",
+                "content": "Schiller fördert Freizeitangebote in Milbertshofen."
+            },
+            {
+                "username": "milbertfun",
+                "content": "Dank Schiller gibt es mehr Freizeitmöglichkeiten in Milbertshofen."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Laura Müller",
+        "position": "Gemeinderätin",
+        "party": "Sozialdemokratische Partei Deutschlands (SPD)",
+        "biography": "Laura Müller ist seit 2019 Gemeinderätin und bekannt für ihre Arbeit im Bereich der Stadtentwicklung.",
+        "constituency": "München-Schwabing",
+        "history": [
+            {
+                "username": "cityplanner",
+                "content": "Müller arbeitet an der Stadtentwicklung in Schwabing."
+            },
+            {
+                "username": "schwabinggrowth",
+                "content": "Dank Müller entwickelt sich Schwabing weiter."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Nicolas Hoffmann",
+        "position": "Bezirksleiter",
+        "party": "Christlich-Soziale Union (CSU)",
+        "biography": "Nicolas Hoffmann ist seit 2020 Bezirksleiter und setzt sich für den Ausbau der Bildungsangebote ein.",
+        "constituency": "München-Giesing",
+        "history": [
+            {
+                "username": "educationadvocate",
+                "content": "Hoffmann fördert Bildungsangebote in Giesing."
+            },
+            {
+                "username": "giesingeducation",
+                "content": "Dank Hoffmann gibt es bessere Bildungsangebote in Giesing."
+            }
+        ],
+        "photo": "715723ca-2f23-45cd-a654-cad79e310016"
+    },
+    {
+        "name": "Hannah Fischer",
+        "position": "Abgeordnete",
+        "party": "BÜNDNIS 90/DIE GRÜNEN",
+        "biography": "Hannah Fischer ist seit 2021 Abgeordnete und bekannt für ihre Arbeit im Bereich der Umweltpolitik.",
+        "constituency": "München-Pasing",
+        "history": [
+            {
+                "username": "environmentalist",
+                "content": "Fischer setzt sich für Umweltpolitik ein."
+            },
+            {
+                "username": "pasinggreen",
+                "content": "Dank Fischer ist Pasing umweltfreunDIE LINKEicher geworden."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Tom Wagner",
+        "position": "Landtagsabgeordneter",
+        "party": "Freie Wähler",
+        "biography": "Tom Wagner ist seit 2022 Landtagsabgeordneter und engagiert sich für die Förderung des länDIE LINKEichen Raums.",
+        "constituency": "München-Ramersdorf",
+        "history": [
+            {
+                "username": "ruraladvocate",
+                "content": "Wagner setzt sich für die Förderung des länDIE LINKEichen Raums ein."
+            },
+            {
+                "username": "ramersdorfsupport",
+                "content": "Dank Wagner gibt es mehr Unterstützung für den länDIE LINKEichen Raum in Ramersdorf."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Elena Weber",
+        "position": "Bürgermeisterin",
+        "party": "Sozialdemokratische Partei Deutschlands (SPD)",
+        "biography": "Elena Weber ist seit 2023 Bürgermeisterin und setzt sich für eine gerechte Stadtentwicklung ein.",
+        "constituency": "München-Schwabing",
+        "history": [
+            {
+                "username": "justcity",
+                "content": "Weber arbeitet an einer gerechteren Stadtentwicklung."
+            },
+            {
+                "username": "schwabingjustice",
+                "content": "Dank Weber gibt es gerechtere Entwicklungsprojekte in Schwabing."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Paul Berger",
+        "position": "Stadtrat",
+        "party": "Christlich-Soziale Union (CSU)",
+        "biography": "Paul Berger ist seit 2022 Stadtrat und bekannt für seine Arbeit im Bereich der Verkehrspolitik.",
+        "constituency": "München-Altstadt",
+        "history": [
+            {
+                "username": "transportadvocate",
+                "content": "Berger setzt sich für eine bessere Verkehrspolitik ein."
+            },
+            {
+                "username": "altstadttraffic",
+                "content": "Dank Berger hat sich der Verkehr in Altstadt verbessert."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Lisa Hoffmann",
+        "position": "Bezirksleiterin",
+        "party": "Parteilos",
+        "biography": "Lisa Hoffmann ist seit 2021 Bezirksleiterin und engagiert sich für die Integration von Migranten.",
+        "constituency": "München-Neuperlach",
+        "history": [
+            {
+                "username": "migrantintegration",
+                "content": "Hoffmann setzt sich für die Integration von Migranten ein."
+            },
+            {
+                "username": "neuperlachintegration",
+                "content": "Dank Hoffmann gibt es mehr Integrationsangebote in Neuperlach."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Julius König",
+        "position": "Abgeordneter",
+        "party": "BÜNDNIS 90/DIE GRÜNEN",
+        "biography": "Julius König ist seit 2021 Abgeordneter und bekannt für seine Initiativen im Bereich des sozialen Wohnungsbaus.",
+        "constituency": "München-Pasing",
+        "history": [
+            {
+                "username": "housingadvocate",
+                "content": "König arbeitet am sozialen Wohnungsbau."
+            },
+            {
+                "username": "pasinghousing",
+                "content": "Dank König gibt es mehr soziale Wohnungen in Pasing."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Miriam Schneider",
+        "position": "Landtagsabgeordnete",
+        "party": "Sozialdemokratische Partei Deutschlands (SPD)",
+        "biography": "Miriam Schneider ist seit 2018 Landtagsabgeordnete und engagiert sich für die Verbesserung des Gesundheitswesens.",
+        "constituency": "München-Milbertshofen",
+        "history": [
+            {
+                "username": "healthcareadvocate",
+                "content": "Schneider setzt sich für bessere Gesundheitsversorgung ein."
+            },
+            {
+                "username": "milberthealth",
+                "content": "Dank Schneider ist die Gesundheitsversorgung in Milbertshofen besser geworden."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Thomas Müller",
+        "position": "Ortsvorsteher",
+        "party": "Christlich-Soziale Union (CSU)",
+        "biography": "Thomas Müller ist seit 2021 Ortsvorsteher und bekannt für seine Arbeit im Bereich der Stadtplanung.",
+        "constituency": "München-Giesing",
+        "history": [
+            {
+                "username": "cityplanner",
+                "content": "Müller arbeitet an der Stadtplanung in Giesing."
+            },
+            {
+                "username": "giesingplanning",
+                "content": "Dank Müller gibt es bessere Stadtplanung in Giesing."
+            }
+        ],
+        "photo": "10782899-2e91-4769-baed-25aae17a1839"
+    },
+    {
+        "name": "Nina Fischer",
+        "position": "Gemeinderätin",
+        "party": "Freie Wähler",
+        "biography": "Nina Fischer ist seit 2020 Gemeinderätin und setzt sich für die Förderung der lokalen Kultur ein.",
+        "constituency": "München-Schwabing",
+        "history": [
+            {
+                "username": "culturefan",
+                "content": "Fischer fördert lokale Kultur in Schwabing."
+            },
+            {
+                "username": "schwabingculture",
+                "content": "Dank Fischer gibt es mehr kulturelle Angebote in Schwabing."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Lukas Braun",
+        "position": "Stadtrat",
+        "party": "Sozialdemokratische Partei Deutschlands (SPD)",
+        "biography": "Lukas Braun ist seit 2021 Stadtrat und bekannt für seine Arbeit im Bereich der Energiepolitik.",
+        "constituency": "München-Moosach",
+        "history": [
+            {
+                "username": "energysupporter",
+                "content": "Braun setzt sich für bessere Energiepolitik ein."
+            },
+            {
+                "username": "moosachenergy",
+                "content": "Dank Braun gibt es nachhaltigere Energiequellen in Moosach."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Marlene Weber",
+        "position": "Bürgermeisterin",
+        "party": "BÜNDNIS 90/DIE GRÜNEN",
+        "biography": "Marlene Weber ist seit 2022 Bürgermeisterin und engagiert sich für den Ausbau der sozialen Einrichtungen.",
+        "constituency": "München-Ludwigsvorstadt",
+        "history": [
+            {
+                "username": "socialfacilities",
+                "content": "Weber arbeitet am Ausbau sozialer Einrichtungen."
+            },
+            {
+                "username": "ludwigsocial",
+                "content": "Dank Weber gibt es mehr soziale Einrichtungen in Ludwigsvorstadt."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Jakob Schmidt",
+        "position": "Bezirksleiter",
+        "party": "Freie Wähler",
+        "biography": "Jakob Schmidt ist seit 2019 Bezirksleiter und bekannt für seine Arbeit im Bereich der Verkehrsplanung.",
+        "constituency": "München-Pasing",
+        "history": [
+            {
+                "username": "transportplanner",
+                "content": "Schmidt arbeitet an der Verkehrsplanung in Pasing."
+            },
+            {
+                "username": "pasingtraffic",
+                "content": "Dank Schmidt gibt es bessere Verkehrslösungen in Pasing."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Friedrich Meyer",
+        "position": "Abgeordneter",
+        "party": "Christlich-Soziale Union (CSU)",
+        "biography": "Friedrich Meyer ist seit 2020 Abgeordneter und setzt sich für den Ausbau der Infrastruktur ein.",
+        "constituency": "München-Milbertshofen",
+        "history": [
+            {
+                "username": "infrastructurefan",
+                "content": "Meyer fördert den Ausbau der Infrastruktur."
+            },
+            {
+                "username": "milbertinfrastructure",
+                "content": "Dank Meyer gibt es mehr Infrastrukturprojekte in Milbertshofen."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Hannah Berger",
+        "position": "Stadträtin",
+        "party": "Parteilos",
+        "biography": "Hannah Berger ist seit 2021 Stadträtin und bekannt für ihre Initiativen im Bereich der Jugendförderung.",
+        "constituency": "München-Ramersdorf",
+        "history": [
+            {
+                "username": "youthinitiatives",
+                "content": "Berger setzt sich für mehr Jugendförderung ein."
+            },
+            {
+                "username": "ramersdorfyouth",
+                "content": "Dank Berger gibt es mehr Angebote für die Jugend in Ramersdorf."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Alexander Lang",
+        "position": "Ortsvorsteher",
+        "party": "Sozialdemokratische Partei Deutschlands (SPD)",
+        "biography": "Alexander Lang ist seit 2018 Ortsvorsteher und engagiert sich für die Förderung der lokalen Wirtschaft.",
+        "constituency": "München-Schwabing",
+        "history": [
+            {
+                "username": "localeconomics",
+                "content": "Lang fördert die lokale Wirtschaft in Schwabing."
+            },
+            {
+                "username": "schwabinggrowth",
+                "content": "Dank Lang hat sich die Wirtschaft in Schwabing verbessert."
+            }
+        ],
+        "photo": "standard"
+    },
+    {
+        "name": "Amelie Fischer",
+        "position": "Gemeinderätin",
+        "party": "BÜNDNIS 90/DIE GRÜNEN",
+        "biography": "Amelie Fischer ist seit 2022 Gemeinderätin und setzt sich für nachhaltige Stadtentwicklung ein.",
+        "constituency": "München-Neuperlach",
+        "history": [
+            {
+                "username": "sustainabledevelopment",
+                "content": "Fischer arbeitet an nachhaltiger Stadtentwicklung."
+            },
+            {
+                "username": "neuperlachsustainability",
+                "content": "Dank Fischer gibt es nachhaltige Projekte in Neuperlach."
+            }
+        ],
+        "photo": "standard"
+    }
+]
