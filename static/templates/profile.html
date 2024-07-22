@@ -28,10 +28,18 @@
             color: white;
             text-decoration: none;
             font-size: 20px;
+            border: 2px solid white;
+            padding: 5px 10px;
+            border-radius: 5px;
+            transition: background-color 0.3s, color 0.3s;
+        }
+        .home-btn:hover {
+            background-color: white;
+            color: #FF9E00;
         }
         #profiles {
             display: grid;
-            grid-template-columns: repeat(4, 1fr);
+            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
             gap: 20px;
             max-width: 1200px;
             margin: 20px auto;
@@ -44,7 +52,7 @@
             padding: 15px;
             transition: transform 0.2s, box-shadow 0.2s;
             position: relative;
-            z-index: 1; /* Ensure text is in the foreground */
+            z-index: 1;
         }
         .profile {
             cursor: pointer;
@@ -98,6 +106,12 @@
             padding-left: 10px;
             margin-top: 10px;
         }
+        .post strong {
+            display: block;
+            font-size: 1.2em;
+            margin-bottom: 5px;
+            color: #FF9E00;
+        }
         .profile-header {
             display: flex;
             align-items: center;
@@ -109,14 +123,14 @@
             max-height: 100px;
             max-width: 100px;
             position: absolute;
-            z-index: -1; /* Ensure images are in the background */
-            opacity: 0.2; /* Adjust opacity as needed */
+            z-index: -1;
+            opacity: 0.2;
         }
         .profile.expanded .profile-header img {
             position: static;
             margin-right: 10px;
-            z-index: -1; /* Ensure images are in the background */
-            opacity: 0.2; /* Adjust opacity as needed */
+            z-index: -1;
+            opacity: 0.2;
         }
         .profile:not(.expanded) img {
             bottom: 10px;
@@ -125,8 +139,6 @@
         .profile.expanded h2 {
             margin: 0;
         }
-
-        /* Style for the standard image in expanded profile */
         .standard-image {
             position: absolute;
             top: 10px;
@@ -248,15 +260,44 @@
             const historyDiv = document.createElement('div');
             historyDiv.className = 'history';
             historyDiv.innerHTML = '<h3>History</h3>';
-            profile.history.forEach(post => {
+            for (let i = 0; i < profile.history.length; i++) {
+                const post = profile.history[i];
                 const postDiv = document.createElement('div');
                 postDiv.className = 'post';
-                postDiv.innerHTML = `
-                    <strong>${post.username}</strong><br>
-                    <p>${post.content}</p>
-                `;
+                if (post.kind === 'quote'){
+                    postDiv.innerHTML = `
+                        <strong>${post.header}</strong>
+                        <p>${post.content}</p>
+                    `;
+                }
+                else if (post.kind === 'audio'){
+                    postDiv.innerHTML = `
+                        <strong>${post.header}</strong>
+                        <audio controls>
+                            <source src="/static/audio/${post.content}.mp3" type="audio/mpeg">
+                            Your browser does not support the audio element.
+                        </audio>
+                    `;
+                }
+                else if (post.kind === 'video'){
+                    postDiv.innerHTML = `
+                        <strong>${post.header}</strong>
+                        <video width="320" height="240" controls>
+                            <source src="/static/videos/${post.content}.mp4" type="video/mp4">
+                            Your browser does not support the video tag.
+                        </video>
+                    `;
+                }
+                else if (post.kind === 'image'){
+                    postDiv.innerHTML = `
+                        <strong>${post.header}</strong>
+                        <img src="/static/photos/${post.content}.jpeg" alt="Image">
+                    `;
+                }
                 historyDiv.appendChild(postDiv);
-            });
+            }
+            
+
             profileDiv.appendChild(historyDiv);
 
             // Insert the standard image from the static folder

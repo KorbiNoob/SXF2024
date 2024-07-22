@@ -7,12 +7,14 @@
         "constituency": "München-Mitte",
         "history": [
             {
-                "username": "muellerfan1",
-                "content": "Bürgermeister Müller hat viel für den Umweltschutz getan."
+                "kind": "quote",
+                "content": "Bürgermeister Müller hat viel für den Umweltschutz getan.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "greenlover99",
-                "content": "Die Verkehrsplanung in München-Mitte hat sich unter Müller stark verbessert."
+                "kind": "quote",
+                "content": "Die Verkehrsplanung in München-Mitte hat sich unter Müller stark verbessert.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -25,12 +27,14 @@
         "constituency": "München-Schwabing",
         "history": [
             {
-                "username": "familyfirst",
-                "content": "Stadträtin Schmidt ist eine wahre Vertreterin der Familien."
+                "kind": "quote",
+                "content": "Stadträtin Schmidt ist eine wahre Vertreterin der Familien.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "schwabingmom",
-                "content": "Claudia Schmidt setzt sich unermüDIE LINKEich für die Kinder in unserer Stadt ein."
+                "kind": "quote",
+                "content": "Claudia Schmidt setzt sich unermüDIE LINKEich für die Kinder in unserer Stadt ein.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -43,12 +47,14 @@
         "constituency": "München-Ramersdorf",
         "history": [
             {
-                "username": "eco-warrior",
-                "content": "Peter Braun bringt frischen Wind in die Energiedebatte."
+                "kind": "quote",
+                "content": "Peter Braun bringt frischen Wind in die Energiedebatte.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "greenfuture",
-                "content": "Erneuerbare Energien sind dank Braun auf dem Vormarsch in Ramersdorf."
+                "kind": "quote",
+                "content": "Erneuerbare Energien sind dank Braun auf dem Vormarsch in Ramersdorf.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -61,12 +67,14 @@
         "constituency": "München-Pasing",
         "history": [
             {
-                "username": "edu-supporter",
-                "content": "Fischer hat viel für die Bildungsreform getan."
+                "kind": "quote",
+                "content": "Fischer hat viel für die Bildungsreform getan.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "pasingparent",
-                "content": "Die Schulen in Pasing sind dank Fischer besser geworden."
+                "kind": "quote",
+                "content": "Die Schulen in Pasing sind dank Fischer besser geworden.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -79,12 +87,14 @@
         "constituency": "München-Moosach",
         "history": [
             {
-                "username": "moosachlocal",
-                "content": "Weber sorgt für mehr Sicherheit in Moosach."
+                "kind": "quote",
+                "content": "Weber sorgt für mehr Sicherheit in Moosach.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "securityfirst",
-                "content": "Dank Weber fühlen wir uns sicherer in Moosach."
+                "kind": "quote",
+                "content": "Dank Weber fühlen wir uns sicherer in Moosach.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -97,12 +107,14 @@
         "constituency": "München-Milbertshofen",
         "history": [
             {
-                "username": "justice4all",
-                "content": "König kämpft unermüDIE LINKEich für soziale Gerechtigkeit."
+                "kind": "quote",
+                "content": "König kämpft unermüDIE LINKEich für soziale Gerechtigkeit.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "milbertsupport",
-                "content": "Dank König geht es sozial gerecht zu in Milbertshofen."
+                "kind": "quote",
+                "content": "Dank König geht es sozial gerecht zu in Milbertshofen.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -115,12 +127,24 @@
         "constituency": "München-Giesing",
         "history": [
             {
-                "username": "wirtschaftsförderer",
+                "kind": "quote",
+                "header": "Ein Zitat des Politikers",
                 "content": "Schulze fördert die lokale Wirtschaft."
             },
             {
-                "username": "giesinggrowth",
+                "kind": "quote",
+                "header": "Ein Zitat des Politikers",
                 "content": "Dank Schulze boomt die Wirtschaft in Giesing."
+            },
+            {
+                "kind": "audio",
+                "header": "Das Lieblingslied des Politikers",
+                "content": "pedro"
+            },
+            {
+                "kind": "video",
+                "header": "Das Lieblingsvideo des Politikers",
+                "content": "pedro"
             }
         ],
         "photo": "02c060e5-6119-4d34-b60d-b05fa0b5e7ab"
@@ -133,12 +157,14 @@
         "constituency": "München-Bogenhausen",
         "history": [
             {
-                "username": "bogefan",
-                "content": "Bürgermeisterin Becker verbessert die Infrastruktur in Bogenhausen."
+                "kind": "quote",
+                "content": "Bürgermeisterin Becker verbessert die Infrastruktur in Bogenhausen.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "betterroads",
-                "content": "Dank Becker sind die Straßen in Bogenhausen besser geworden."
+                "kind": "quote",
+                "content": "Dank Becker sind die Straßen in Bogenhausen besser geworden.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -151,12 +177,14 @@
         "constituency": "München-Hadern",
         "history": [
             {
-                "username": "transitlover",
-                "content": "Stadtrat Klein verbessert den Nahverkehr in Hadern."
+                "kind": "quote",
+                "content": "Stadtrat Klein verbessert den Nahverkehr in Hadern.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "publictransitfan",
-                "content": "Dank Klein fahren die Busse und Bahnen besser."
+                "kind": "quote",
+                "content": "Dank Klein fahren die Busse und Bahnen besser.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -169,12 +197,14 @@
         "constituency": "München-Mitte",
         "history": [
             {
-                "username": "greenmeier",
-                "content": "Meier bringt Umweltbewusstsein in die Politik."
+                "kind": "quote",
+                "content": "Meier bringt Umweltbewusstsein in die Politik.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "ecoactivist",
-                "content": "Dank Meier wird unsere Stadt grüner."
+                "kind": "quote",
+                "content": "Dank Meier wird unsere Stadt grüner.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -187,12 +217,14 @@
         "constituency": "München-Schwabing",
         "history": [
             {
-                "username": "schwabingstudent",
-                "content": "Berger hat die Schulen in Schwabing modernisiert."
+                "kind": "quote",
+                "content": "Berger hat die Schulen in Schwabing modernisiert.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "eduadvocate",
-                "content": "Dank Berger sind unsere Schulen besser ausgestattet."
+                "kind": "quote",
+                "content": "Dank Berger sind unsere Schulen besser ausgestattet.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -205,12 +237,14 @@
         "constituency": "München-Ramersdorf",
         "history": [
             {
-                "username": "culturefan",
-                "content": "Frank hat viel für die Kultur in Ramersdorf getan."
+                "kind": "quote",
+                "content": "Frank hat viel für die Kultur in Ramersdorf getan.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "ramersdorfculture",
-                "content": "Dank Frank blüht die Kultur in unserer Gemeinde auf."
+                "kind": "quote",
+                "content": "Dank Frank blüht die Kultur in unserer Gemeinde auf.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -223,12 +257,14 @@
         "constituency": "München-Pasing",
         "history": [
             {
-                "username": "pasingpatriot",
-                "content": "Huber setzt sich für eine strengere Migrationspolitik ein."
+                "kind": "quote",
+                "content": "Huber setzt sich für eine strengere Migrationspolitik ein.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "safetypasing",
-                "content": "Dank Huber gibt es mehr Sicherheit in Pasing."
+                "kind": "quote",
+                "content": "Dank Huber gibt es mehr Sicherheit in Pasing.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -241,12 +277,14 @@
         "constituency": "München-Moosach",
         "history": [
             {
-                "username": "moosachhome",
-                "content": "Richter baut bezahlbare Wohnungen in Moosach."
+                "kind": "quote",
+                "content": "Richter baut bezahlbare Wohnungen in Moosach.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "housingfirst",
-                "content": "Dank Richter gibt es mehr Sozialwohnungen."
+                "kind": "quote",
+                "content": "Dank Richter gibt es mehr Sozialwohnungen.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -259,12 +297,14 @@
         "constituency": "München-Milbertshofen",
         "history": [
             {
-                "username": "digitalwolf",
-                "content": "Wolf bringt Digitalisierung voran."
+                "kind": "quote",
+                "content": "Wolf bringt Digitalisierung voran.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "techfuture",
-                "content": "Dank Wolf wird Milbertshofen digitaler."
+                "kind": "quote",
+                "content": "Dank Wolf wird Milbertshofen digitaler.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -277,12 +317,14 @@
         "constituency": "München-Giesing",
         "history": [
             {
-                "username": "wirtschaftfan",
-                "content": "Bauer unterstützt die lokale Wirtschaft."
+                "kind": "quote",
+                "content": "Bauer unterstützt die lokale Wirtschaft.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "giesinggrowth",
-                "content": "Dank Bauer boomt die Wirtschaft in Giesing."
+                "kind": "quote",
+                "content": "Dank Bauer boomt die Wirtschaft in Giesing.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "17325499-3f2e-4f94-a6f3-9e016edf4136"
@@ -295,12 +337,14 @@
         "constituency": "München-Bogenhausen",
         "history": [
             {
-                "username": "greenfischer",
-                "content": "Fischer setzt sich für die Umwelt ein."
+                "kind": "quote",
+                "content": "Fischer setzt sich für die Umwelt ein.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "eco-bogenhausen",
-                "content": "Dank Fischer wird Bogenhausen grüner."
+                "kind": "quote",
+                "content": "Dank Fischer wird Bogenhausen grüner.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -313,12 +357,14 @@
         "constituency": "München-Hadern",
         "history": [
             {
-                "username": "transitadvocate",
-                "content": "Wagner verbessert den Nahverkehr in Hadern."
+                "kind": "quote",
+                "content": "Wagner verbessert den Nahverkehr in Hadern.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "publictransportfan",
-                "content": "Dank Wagner fahren die Busse und Bahnen besser."
+                "kind": "quote",
+                "content": "Dank Wagner fahren die Busse und Bahnen besser.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -331,12 +377,14 @@
         "constituency": "München-Mitte",
         "history": [
             {
-                "username": "modernbecker",
-                "content": "Becker modernisiert die Infrastruktur in der Stadt."
+                "kind": "quote",
+                "content": "Becker modernisiert die Infrastruktur in der Stadt.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "citydevelopment",
-                "content": "Dank Becker geht die Stadtentwicklung voran."
+                "kind": "quote",
+                "content": "Dank Becker geht die Stadtentwicklung voran.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -349,12 +397,14 @@
         "constituency": "München-Schwabing",
         "history": [
             {
-                "username": "safetyfirst",
-                "content": "Schmidt setzt sich für mehr Sicherheit in Schwabing ein."
+                "kind": "quote",
+                "content": "Schmidt setzt sich für mehr Sicherheit in Schwabing ein.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "securelife",
-                "content": "Dank Schmidt fühlen wir uns sicherer in Schwabing."
+                "kind": "quote",
+                "content": "Dank Schmidt fühlen wir uns sicherer in Schwabing.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -367,12 +417,14 @@
         "constituency": "München-Ramersdorf",
         "history": [
             {
-                "username": "minoritysupport",
-                "content": "Hoffmann kämpft für den Schutz von Minderheiten."
+                "kind": "quote",
+                "content": "Hoffmann kämpft für den Schutz von Minderheiten.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "ramersdorfsupport",
-                "content": "Dank Hoffmann geht es Minderheiten besser in Ramersdorf."
+                "kind": "quote",
+                "content": "Dank Hoffmann geht es Minderheiten besser in Ramersdorf.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -385,12 +437,14 @@
         "constituency": "München-Pasing",
         "history": [
             {
-                "username": "edu-fan",
-                "content": "Weber setzt sich für eine bessere Bildung ein."
+                "kind": "quote",
+                "content": "Weber setzt sich für eine bessere Bildung ein.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "pasingstudent",
-                "content": "Dank Weber sind die Schulen in Pasing besser."
+                "kind": "quote",
+                "content": "Dank Weber sind die Schulen in Pasing besser.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -403,12 +457,14 @@
         "constituency": "München-Moosach",
         "history": [
             {
-                "username": "citylover",
-                "content": "Keller bringt die Stadtentwicklung voran."
+                "kind": "quote",
+                "content": "Keller bringt die Stadtentwicklung voran.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "moosachfuture",
-                "content": "Dank Keller wird Moosach schöner."
+                "kind": "quote",
+                "content": "Dank Keller wird Moosach schöner.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -421,12 +477,14 @@
         "constituency": "München-Milbertshofen",
         "history": [
             {
-                "username": "greentraffic",
-                "content": "Braun fördert umweltfreunDIE LINKEiche Verkehrskonzepte."
+                "kind": "quote",
+                "content": "Braun fördert umweltfreunDIE LINKEiche Verkehrskonzepte.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "milbertgreen",
-                "content": "Dank Braun ist der Verkehr in Milbertshofen grüner."
+                "kind": "quote",
+                "content": "Dank Braun ist der Verkehr in Milbertshofen grüner.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -439,12 +497,14 @@
         "constituency": "München-Giesing",
         "history": [
             {
-                "username": "sportsfan",
-                "content": "Bergmann fördert Sportangebote in Giesing."
+                "kind": "quote",
+                "content": "Bergmann fördert Sportangebote in Giesing.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "giesingfitness",
-                "content": "Dank Bergmann gibt es mehr Freizeitangebote."
+                "kind": "quote",
+                "content": "Dank Bergmann gibt es mehr Freizeitangebote.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "a9e1478b-5992-409c-9bc0-305eb0ef5d0f"
@@ -457,12 +517,14 @@
         "constituency": "München-Bogenhausen",
         "history": [
             {
-                "username": "artlover",
-                "content": "Klein fördert die lokale Kunstszene."
+                "kind": "quote",
+                "content": "Klein fördert die lokale Kunstszene.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "bogenart",
-                "content": "Dank Klein blüht die Kunst in Bogenhausen."
+                "kind": "quote",
+                "content": "Dank Klein blüht die Kunst in Bogenhausen.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -475,12 +537,14 @@
         "constituency": "München-Hadern",
         "history": [
             {
-                "username": "conservativefamily",
-                "content": "Winkler fördert eine konservative Familienpolitik."
+                "kind": "quote",
+                "content": "Winkler fördert eine konservative Familienpolitik.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "familyvalues",
-                "content": "Dank Winkler werden traditionelle Familienwerte in Hadern gestärkt."
+                "kind": "quote",
+                "content": "Dank Winkler werden traditionelle Familienwerte in Hadern gestärkt.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -493,12 +557,14 @@
         "constituency": "München-Mitte",
         "history": [
             {
-                "username": "culturefan",
-                "content": "Schwarz fördert Kultur- und Jugendprojekte."
+                "kind": "quote",
+                "content": "Schwarz fördert Kultur- und Jugendprojekte.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "midDIE LINKEeculture",
-                "content": "Dank Schwarz blühen Kulturprojekte in München-Mitte."
+                "kind": "quote",
+                "content": "Dank Schwarz blühen Kulturprojekte in München-Mitte.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -511,12 +577,14 @@
         "constituency": "München-Schwabing",
         "history": [
             {
-                "username": "healthcarefan",
-                "content": "Krüger setzt sich für bessere Gesundheitsversorgung ein."
+                "kind": "quote",
+                "content": "Krüger setzt sich für bessere Gesundheitsversorgung ein.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "schwabinghealth",
-                "content": "Dank Krüger sind die Gesundheitsdienste in Schwabing besser."
+                "kind": "quote",
+                "content": "Dank Krüger sind die Gesundheitsdienste in Schwabing besser.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -529,12 +597,14 @@
         "constituency": "München-Ramersdorf",
         "history": [
             {
-                "username": "bizsupporter",
-                "content": "Bauer unterstützt die lokale Wirtschaft in Ramersdorf."
+                "kind": "quote",
+                "content": "Bauer unterstützt die lokale Wirtschaft in Ramersdorf.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "ramersdorfboom",
-                "content": "Dank Bauer boomt die Wirtschaft in Ramersdorf."
+                "kind": "quote",
+                "content": "Dank Bauer boomt die Wirtschaft in Ramersdorf.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -547,12 +617,14 @@
         "constituency": "München-Pasing",
         "history": [
             {
-                "username": "greenqueen",
-                "content": "König setzt sich für die Umwelt in Pasing ein."
+                "kind": "quote",
+                "content": "König setzt sich für die Umwelt in Pasing ein.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "eco-pasing",
-                "content": "Dank König wird Pasing grüner."
+                "kind": "quote",
+                "content": "Dank König wird Pasing grüner.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -565,12 +637,14 @@
         "constituency": "München-Moosach",
         "history": [
             {
-                "username": "infra-fan",
-                "content": "Maier verbessert die Infrastruktur in Moosach."
+                "kind": "quote",
+                "content": "Maier verbessert die Infrastruktur in Moosach.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "moosachroads",
-                "content": "Dank Maier sind die Straßen in Moosach besser."
+                "kind": "quote",
+                "content": "Dank Maier sind die Straßen in Moosach besser.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -583,12 +657,14 @@
         "constituency": "München-Milbertshofen",
         "history": [
             {
-                "username": "cultureweb",
-                "content": "Weber fördert die Kultur in Milbertshofen."
+                "kind": "quote",
+                "content": "Weber fördert die Kultur in Milbertshofen.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "milbertculture",
-                "content": "Dank Weber blüht die Kultur in unserer Stadt."
+                "kind": "quote",
+                "content": "Dank Weber blüht die Kultur in unserer Stadt.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -601,12 +677,14 @@
         "constituency": "München-Giesing",
         "history": [
             {
-                "username": "conservativevoice",
-                "content": "Neumann setzt sich für konservative Werte ein."
+                "kind": "quote",
+                "content": "Neumann setzt sich für konservative Werte ein.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "giesingvalues",
-                "content": "Dank Neumann werden konservative Werte in Giesing gestärkt."
+                "kind": "quote",
+                "content": "Dank Neumann werden konservative Werte in Giesing gestärkt.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "d823effe-1feb-4815-8d09-49e7439f2ff7"
@@ -619,12 +697,14 @@
         "constituency": "München-Bogenhausen",
         "history": [
             {
-                "username": "socialsupport",
-                "content": "Hoffmann fördert soziale Projekte in Bogenhausen."
+                "kind": "quote",
+                "content": "Hoffmann fördert soziale Projekte in Bogenhausen.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "bogensupport",
-                "content": "Dank Hoffmann gibt es mehr soziale Unterstützung."
+                "kind": "quote",
+                "content": "Dank Hoffmann gibt es mehr soziale Unterstützung.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -637,12 +717,14 @@
         "constituency": "München-Hadern",
         "history": [
             {
-                "username": "digitalwagner",
-                "content": "Wagner bringt Digitalisierung voran."
+                "kind": "quote",
+                "content": "Wagner bringt Digitalisierung voran.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "techhadern",
-                "content": "Dank Wagner wird Hadern digitaler."
+                "kind": "quote",
+                "content": "Dank Wagner wird Hadern digitaler.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -655,12 +737,14 @@
         "constituency": "München-Mitte",
         "history": [
             {
-                "username": "sportsfanatic",
-                "content": "Meier fördert Sportangebote in München-Mitte."
+                "kind": "quote",
+                "content": "Meier fördert Sportangebote in München-Mitte.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "fitnessfirst",
-                "content": "Dank Meier gibt es mehr Sportmöglichkeiten."
+                "kind": "quote",
+                "content": "Dank Meier gibt es mehr Sportmöglichkeiten.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -673,12 +757,14 @@
         "constituency": "München-Schwabing",
         "history": [
             {
-                "username": "greenpaul",
-                "content": "Richter setzt sich für die Umwelt ein."
+                "kind": "quote",
+                "content": "Richter setzt sich für die Umwelt ein.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "eco-schwabing",
-                "content": "Dank Richter wird Schwabing grüner."
+                "kind": "quote",
+                "content": "Dank Richter wird Schwabing grüner.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -691,12 +777,14 @@
         "constituency": "München-Ramersdorf",
         "history": [
             {
-                "username": "eduenthusiast",
-                "content": "Schäfer fördert Bildung in Ramersdorf."
+                "kind": "quote",
+                "content": "Schäfer fördert Bildung in Ramersdorf.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "ramersdorfedu",
-                "content": "Dank Schäfer sind die Schulen besser ausgestattet."
+                "kind": "quote",
+                "content": "Dank Schäfer sind die Schulen besser ausgestattet.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -709,12 +797,14 @@
         "constituency": "München-Pasing",
         "history": [
             {
-                "username": "digitalkoehler",
-                "content": "Köhler bringt Digitalisierung nach Pasing."
+                "kind": "quote",
+                "content": "Köhler bringt Digitalisierung nach Pasing.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "pasingtech",
-                "content": "Dank Köhler wird Pasing digitaler."
+                "kind": "quote",
+                "content": "Dank Köhler wird Pasing digitaler.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -727,12 +817,14 @@
         "constituency": "München-Moosach",
         "history": [
             {
-                "username": "migrationcontrol",
-                "content": "Becker setzt sich für strengere Migrationsgesetze ein."
+                "kind": "quote",
+                "content": "Becker setzt sich für strengere Migrationsgesetze ein.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "moosachsecurity",
-                "content": "Dank Becker gibt es mehr Sicherheit in Moosach."
+                "kind": "quote",
+                "content": "Dank Becker gibt es mehr Sicherheit in Moosach.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -745,12 +837,14 @@
         "constituency": "München-Milbertshofen",
         "history": [
             {
-                "username": "socialmayor",
-                "content": "Hofmann setzt sich für soziale Projekte ein."
+                "kind": "quote",
+                "content": "Hofmann setzt sich für soziale Projekte ein.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "milberthilfe",
-                "content": "Dank Hofmann gibt es mehr Unterstützung in Milbertshofen."
+                "kind": "quote",
+                "content": "Dank Hofmann gibt es mehr Unterstützung in Milbertshofen.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -763,12 +857,14 @@
         "constituency": "München-Giesing",
         "history": [
             {
-                "username": "trafficplanner",
-                "content": "Weiß verbessert die Verkehrsplanung in Giesing."
+                "kind": "quote",
+                "content": "Weiß verbessert die Verkehrsplanung in Giesing.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "giesingtraffic",
-                "content": "Dank Weiß ist der Verkehr in Giesing besser."
+                "kind": "quote",
+                "content": "Dank Weiß ist der Verkehr in Giesing besser.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "89a608e2-b44b-47b2-bca2-a8bc50f65946"
@@ -781,12 +877,14 @@
         "constituency": "München-Bogenhausen",
         "history": [
             {
-                "username": "startupfan",
-                "content": "Wagner unterstützt Startups in Bogenhausen."
+                "kind": "quote",
+                "content": "Wagner unterstützt Startups in Bogenhausen.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "bogenstart",
-                "content": "Dank Wagner gibt es mehr Unterstützung für Startups."
+                "kind": "quote",
+                "content": "Dank Wagner gibt es mehr Unterstützung für Startups.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -799,12 +897,14 @@
         "constituency": "München-Hadern",
         "history": [
             {
-                "username": "greenberg",
-                "content": "Berg setzt sich für die Umwelt in Hadern ein."
+                "kind": "quote",
+                "content": "Berg setzt sich für die Umwelt in Hadern ein.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "haderngreen",
-                "content": "Dank Berg wird Hadern grüner."
+                "kind": "quote",
+                "content": "Dank Berg wird Hadern grüner.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -817,12 +917,14 @@
         "constituency": "München-Mitte",
         "history": [
             {
-                "username": "eduadvocate",
-                "content": "Fischer setzt sich für bessere Bildung ein."
+                "kind": "quote",
+                "content": "Fischer setzt sich für bessere Bildung ein.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "midDIE LINKEeedu",
-                "content": "Dank Fischer sind die Schulen in München-Mitte besser."
+                "kind": "quote",
+                "content": "Dank Fischer sind die Schulen in München-Mitte besser.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -835,12 +937,14 @@
         "constituency": "München-Schwabing",
         "history": [
             {
-                "username": "bizlover",
-                "content": "Keller unterstützt die Wirtschaft in Schwabing."
+                "kind": "quote",
+                "content": "Keller unterstützt die Wirtschaft in Schwabing.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "schwabingboom",
-                "content": "Dank Keller boomt die Wirtschaft in Schwabing."
+                "kind": "quote",
+                "content": "Dank Keller boomt die Wirtschaft in Schwabing.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -853,12 +957,14 @@
         "constituency": "München-Ramersdorf",
         "history": [
             {
-                "username": "secureborders",
-                "content": "Schneider setzt sich für strengere Migrationsgesetze ein."
+                "kind": "quote",
+                "content": "Schneider setzt sich für strengere Migrationsgesetze ein.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "ramersdorfsecurity",
-                "content": "Dank Schneider gibt es mehr Sicherheit in Ramersdorf."
+                "kind": "quote",
+                "content": "Dank Schneider gibt es mehr Sicherheit in Ramersdorf.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -871,12 +977,14 @@
         "constituency": "München-Pasing",
         "history": [
             {
-                "username": "artlover",
-                "content": "Neumann unterstützt die Kunst in Pasing."
+                "kind": "quote",
+                "content": "Neumann unterstützt die Kunst in Pasing.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "pasingart",
-                "content": "Dank Neumann blüht die Kunst in Pasing."
+                "kind": "quote",
+                "content": "Dank Neumann blüht die Kunst in Pasing.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -889,12 +997,14 @@
         "constituency": "München-Moosach",
         "history": [
             {
-                "username": "justicewarrior",
-                "content": "Klein kämpft für soziale Gerechtigkeit."
+                "kind": "quote",
+                "content": "Klein kämpft für soziale Gerechtigkeit.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "moosachjustice",
-                "content": "Dank Klein gibt es mehr Gerechtigkeit in Moosach."
+                "kind": "quote",
+                "content": "Dank Klein gibt es mehr Gerechtigkeit in Moosach.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -907,12 +1017,14 @@
         "constituency": "München-Milbertshofen",
         "history": [
             {
-                "username": "infrafan",
-                "content": "Braun verbessert die Infrastruktur in Milbertshofen."
+                "kind": "quote",
+                "content": "Braun verbessert die Infrastruktur in Milbertshofen.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "milbertinfra",
-                "content": "Dank Braun sind die Straßen und Brücken besser."
+                "kind": "quote",
+                "content": "Dank Braun sind die Straßen und Brücken besser.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -925,12 +1037,14 @@
         "constituency": "München-Giesing",
         "history": [
             {
-                "username": "greenmeier",
-                "content": "Meier setzt sich für die Umwelt ein."
+                "kind": "quote",
+                "content": "Meier setzt sich für die Umwelt ein.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "giesinggreen",
-                "content": "Dank Meier wird Giesing grüner."
+                "kind": "quote",
+                "content": "Dank Meier wird Giesing grüner.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "7766051e-759b-4483-be2a-d27fd8522b3f"
@@ -943,12 +1057,14 @@
         "constituency": "München-Bogenhausen",
         "history": [
             {
-                "username": "educationfan",
-                "content": "Bergmann setzt sich für bessere Bildung ein."
+                "kind": "quote",
+                "content": "Bergmann setzt sich für bessere Bildung ein.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "bogenedu",
-                "content": "Dank Bergmann sind die Schulen in Bogenhausen besser."
+                "kind": "quote",
+                "content": "Dank Bergmann sind die Schulen in Bogenhausen besser.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -961,12 +1077,14 @@
         "constituency": "München-Hadern",
         "history": [
             {
-                "username": "businesswolf",
-                "content": "Wolf fördert die Wirtschaft in Hadern."
+                "kind": "quote",
+                "content": "Wolf fördert die Wirtschaft in Hadern.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "hadernbiz",
-                "content": "Dank Wolf boomt die Wirtschaft in Hadern."
+                "kind": "quote",
+                "content": "Dank Wolf boomt die Wirtschaft in Hadern.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -979,12 +1097,14 @@
         "constituency": "München-Altstadt",
         "history": [
             {
-                "username": "digitalleader",
-                "content": "Lang bringt Digitalisierung in die Stadtverwaltung."
+                "kind": "quote",
+                "content": "Lang bringt Digitalisierung in die Stadtverwaltung.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "altstadttech",
-                "content": "Dank Lang sind die digitalen Dienstleistungen in Altstadt verbessert worden."
+                "kind": "quote",
+                "content": "Dank Lang sind die digitalen Dienstleistungen in Altstadt verbessert worden.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -997,12 +1117,14 @@
         "constituency": "München-Ludwigsvorstadt",
         "history": [
             {
-                "username": "cleanairfan",
-                "content": "Schmidt arbeitet hart an der Verbesserung der Luftqualität."
+                "kind": "quote",
+                "content": "Schmidt arbeitet hart an der Verbesserung der Luftqualität.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "ludwigair",
-                "content": "Dank Schmidt ist die Luft in Ludwigsvorstadt sauberer geworden."
+                "kind": "quote",
+                "content": "Dank Schmidt ist die Luft in Ludwigsvorstadt sauberer geworden.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -1015,12 +1137,14 @@
         "constituency": "München-Neuperlach",
         "history": [
             {
-                "username": "sustainabilityfan",
-                "content": "Peters setzt sich für nachhaltige Stadtentwicklung ein."
+                "kind": "quote",
+                "content": "Peters setzt sich für nachhaltige Stadtentwicklung ein.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "neuperlachgreen",
-                "content": "Dank Peters wird Neuperlach grüner und nachhaltiger."
+                "kind": "quote",
+                "content": "Dank Peters wird Neuperlach grüner und nachhaltiger.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -1033,12 +1157,14 @@
         "constituency": "München-Pasing",
         "history": [
             {
-                "username": "startupsupporter",
-                "content": "Müller fördert Startups in Pasing."
+                "kind": "quote",
+                "content": "Müller fördert Startups in Pasing.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "pasingstartups",
-                "content": "Dank Müller gibt es mehr Unterstützung für junge Unternehmen."
+                "kind": "quote",
+                "content": "Dank Müller gibt es mehr Unterstützung für junge Unternehmen.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -1051,12 +1177,14 @@
         "constituency": "München-Ramersdorf",
         "history": [
             {
-                "username": "socialimprovements",
-                "content": "Wolf verbessert die soziale Infrastruktur in Ramersdorf."
+                "kind": "quote",
+                "content": "Wolf verbessert die soziale Infrastruktur in Ramersdorf.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "ramersdorfhelp",
-                "content": "Dank Wolf gibt es mehr soziale Unterstützung in unserer Gemeinde."
+                "kind": "quote",
+                "content": "Dank Wolf gibt es mehr soziale Unterstützung in unserer Gemeinde.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -1069,12 +1197,14 @@
         "constituency": "München-Schwabing",
         "history": [
             {
-                "username": "youthsupporter",
-                "content": "Köhler setzt sich stark für die Jugendförderung ein."
+                "kind": "quote",
+                "content": "Köhler setzt sich stark für die Jugendförderung ein.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "schwabingyouth",
-                "content": "Dank Köhler gibt es mehr Angebote für die Jugend in Schwabing."
+                "kind": "quote",
+                "content": "Dank Köhler gibt es mehr Angebote für die Jugend in Schwabing.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -1087,12 +1217,14 @@
         "constituency": "München-Altstadt",
         "history": [
             {
-                "username": "educationfan",
-                "content": "Zimmermann arbeitet an der Verbesserung der Bildungseinrichtungen."
+                "kind": "quote",
+                "content": "Zimmermann arbeitet an der Verbesserung der Bildungseinrichtungen.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "altstadtedu",
-                "content": "Dank Zimmermann sind die Schulen in Altstadt besser ausgestattet."
+                "kind": "quote",
+                "content": "Dank Zimmermann sind die Schulen in Altstadt besser ausgestattet.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -1105,12 +1237,14 @@
         "constituency": "München-Neuperlach",
         "history": [
             {
-                "username": "cultureeducator",
-                "content": "Huber fördert kulturelle Bildungsprojekte."
+                "kind": "quote",
+                "content": "Huber fördert kulturelle Bildungsprojekte.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "neuperlachart",
-                "content": "Dank Huber gibt es mehr kulturelle Angebote in Neuperlach."
+                "kind": "quote",
+                "content": "Dank Huber gibt es mehr kulturelle Angebote in Neuperlach.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -1123,12 +1257,14 @@
         "constituency": "München-Giesing",
         "history": [
             {
-                "username": "sustainabilityadvocate",
-                "content": "Schuster setzt sich für Nachhaltigkeit ein."
+                "kind": "quote",
+                "content": "Schuster setzt sich für Nachhaltigkeit ein.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "giesingsustain",
-                "content": "Dank Schuster wird Giesing nachhaltiger."
+                "kind": "quote",
+                "content": "Dank Schuster wird Giesing nachhaltiger.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "53cf3b58-21a1-45ec-ad8c-6977a6d9bbfa"
@@ -1141,12 +1277,14 @@
         "constituency": "München-Moosach",
         "history": [
             {
-                "username": "economiChristlich-Soziale Union (CSU)pport",
-                "content": "Neumann unterstützt die lokale Wirtschaft in Moosach."
+                "kind": "quote",
+                "content": "Neumann unterstützt die lokale Wirtschaft in Moosach.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "moosachgrowth",
-                "content": "Dank Neumann boomt die Wirtschaft in Moosach."
+                "kind": "quote",
+                "content": "Dank Neumann boomt die Wirtschaft in Moosach.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -1159,12 +1297,14 @@
         "constituency": "München-Ludwigsvorstadt",
         "history": [
             {
-                "username": "infrastructureadvocate",
-                "content": "Braun arbeitet an der Verbesserung der Infrastruktur."
+                "kind": "quote",
+                "content": "Braun arbeitet an der Verbesserung der Infrastruktur.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "ludwigimprovements",
-                "content": "Dank Braun sind die Verkehrsanbindungen in Ludwigsvorstadt besser geworden."
+                "kind": "quote",
+                "content": "Dank Braun sind die Verkehrsanbindungen in Ludwigsvorstadt besser geworden.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -1177,12 +1317,14 @@
         "constituency": "München-Ramersdorf",
         "history": [
             {
-                "username": "integrationfan",
-                "content": "Keller setzt sich für soziale Integration ein."
+                "kind": "quote",
+                "content": "Keller setzt sich für soziale Integration ein.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "ramersdorfintegration",
-                "content": "Dank Keller gibt es mehr Integrationsangebote in Ramersdorf."
+                "kind": "quote",
+                "content": "Dank Keller gibt es mehr Integrationsangebote in Ramersdorf.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -1195,12 +1337,14 @@
         "constituency": "München-Milbertshofen",
         "history": [
             {
-                "username": "leisureenthusiast",
-                "content": "Schiller fördert Freizeitangebote in Milbertshofen."
+                "kind": "quote",
+                "content": "Schiller fördert Freizeitangebote in Milbertshofen.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "milbertfun",
-                "content": "Dank Schiller gibt es mehr Freizeitmöglichkeiten in Milbertshofen."
+                "kind": "quote",
+                "content": "Dank Schiller gibt es mehr Freizeitmöglichkeiten in Milbertshofen.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -1213,12 +1357,14 @@
         "constituency": "München-Schwabing",
         "history": [
             {
-                "username": "cityplanner",
-                "content": "Müller arbeitet an der Stadtentwicklung in Schwabing."
+                "kind": "quote",
+                "content": "Müller arbeitet an der Stadtentwicklung in Schwabing.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "schwabinggrowth",
-                "content": "Dank Müller entwickelt sich Schwabing weiter."
+                "kind": "quote",
+                "content": "Dank Müller entwickelt sich Schwabing weiter.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -1231,12 +1377,14 @@
         "constituency": "München-Giesing",
         "history": [
             {
-                "username": "educationadvocate",
-                "content": "Hoffmann fördert Bildungsangebote in Giesing."
+                "kind": "quote",
+                "content": "Hoffmann fördert Bildungsangebote in Giesing.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "giesingeducation",
-                "content": "Dank Hoffmann gibt es bessere Bildungsangebote in Giesing."
+                "kind": "quote",
+                "content": "Dank Hoffmann gibt es bessere Bildungsangebote in Giesing.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "715723ca-2f23-45cd-a654-cad79e310016"
@@ -1249,12 +1397,14 @@
         "constituency": "München-Pasing",
         "history": [
             {
-                "username": "environmentalist",
-                "content": "Fischer setzt sich für Umweltpolitik ein."
+                "kind": "quote",
+                "content": "Fischer setzt sich für Umweltpolitik ein.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "pasinggreen",
-                "content": "Dank Fischer ist Pasing umweltfreunDIE LINKEicher geworden."
+                "kind": "quote",
+                "content": "Dank Fischer ist Pasing umweltfreunDIE LINKEicher geworden.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -1267,12 +1417,14 @@
         "constituency": "München-Ramersdorf",
         "history": [
             {
-                "username": "ruraladvocate",
-                "content": "Wagner setzt sich für die Förderung des länDIE LINKEichen Raums ein."
+                "kind": "quote",
+                "content": "Wagner setzt sich für die Förderung des länDIE LINKEichen Raums ein.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "ramersdorfsupport",
-                "content": "Dank Wagner gibt es mehr Unterstützung für den länDIE LINKEichen Raum in Ramersdorf."
+                "kind": "quote",
+                "content": "Dank Wagner gibt es mehr Unterstützung für den länDIE LINKEichen Raum in Ramersdorf.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -1285,12 +1437,14 @@
         "constituency": "München-Schwabing",
         "history": [
             {
-                "username": "justcity",
-                "content": "Weber arbeitet an einer gerechteren Stadtentwicklung."
+                "kind": "quote",
+                "content": "Weber arbeitet an einer gerechteren Stadtentwicklung.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "schwabingjustice",
-                "content": "Dank Weber gibt es gerechtere Entwicklungsprojekte in Schwabing."
+                "kind": "quote",
+                "content": "Dank Weber gibt es gerechtere Entwicklungsprojekte in Schwabing.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -1303,12 +1457,14 @@
         "constituency": "München-Altstadt",
         "history": [
             {
-                "username": "transportadvocate",
-                "content": "Berger setzt sich für eine bessere Verkehrspolitik ein."
+                "kind": "quote",
+                "content": "Berger setzt sich für eine bessere Verkehrspolitik ein.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "altstadttraffic",
-                "content": "Dank Berger hat sich der Verkehr in Altstadt verbessert."
+                "kind": "quote",
+                "content": "Dank Berger hat sich der Verkehr in Altstadt verbessert.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -1321,12 +1477,14 @@
         "constituency": "München-Neuperlach",
         "history": [
             {
-                "username": "migrantintegration",
-                "content": "Hoffmann setzt sich für die Integration von Migranten ein."
+                "kind": "quote",
+                "content": "Hoffmann setzt sich für die Integration von Migranten ein.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "neuperlachintegration",
-                "content": "Dank Hoffmann gibt es mehr Integrationsangebote in Neuperlach."
+                "kind": "quote",
+                "content": "Dank Hoffmann gibt es mehr Integrationsangebote in Neuperlach.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -1339,12 +1497,14 @@
         "constituency": "München-Pasing",
         "history": [
             {
-                "username": "housingadvocate",
-                "content": "König arbeitet am sozialen Wohnungsbau."
+                "kind": "quote",
+                "content": "König arbeitet am sozialen Wohnungsbau.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "pasinghousing",
-                "content": "Dank König gibt es mehr soziale Wohnungen in Pasing."
+                "kind": "quote",
+                "content": "Dank König gibt es mehr soziale Wohnungen in Pasing.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -1357,12 +1517,14 @@
         "constituency": "München-Milbertshofen",
         "history": [
             {
-                "username": "healthcareadvocate",
-                "content": "Schneider setzt sich für bessere Gesundheitsversorgung ein."
+                "kind": "quote",
+                "content": "Schneider setzt sich für bessere Gesundheitsversorgung ein.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "milberthealth",
-                "content": "Dank Schneider ist die Gesundheitsversorgung in Milbertshofen besser geworden."
+                "kind": "quote",
+                "content": "Dank Schneider ist die Gesundheitsversorgung in Milbertshofen besser geworden.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -1375,12 +1537,14 @@
         "constituency": "München-Giesing",
         "history": [
             {
-                "username": "cityplanner",
-                "content": "Müller arbeitet an der Stadtplanung in Giesing."
+                "kind": "quote",
+                "content": "Müller arbeitet an der Stadtplanung in Giesing.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "giesingplanning",
-                "content": "Dank Müller gibt es bessere Stadtplanung in Giesing."
+                "kind": "quote",
+                "content": "Dank Müller gibt es bessere Stadtplanung in Giesing.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "10782899-2e91-4769-baed-25aae17a1839"
@@ -1393,12 +1557,14 @@
         "constituency": "München-Schwabing",
         "history": [
             {
-                "username": "culturefan",
-                "content": "Fischer fördert lokale Kultur in Schwabing."
+                "kind": "quote",
+                "content": "Fischer fördert lokale Kultur in Schwabing.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "schwabingculture",
-                "content": "Dank Fischer gibt es mehr kulturelle Angebote in Schwabing."
+                "kind": "quote",
+                "content": "Dank Fischer gibt es mehr kulturelle Angebote in Schwabing.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -1411,12 +1577,14 @@
         "constituency": "München-Moosach",
         "history": [
             {
-                "username": "energysupporter",
-                "content": "Braun setzt sich für bessere Energiepolitik ein."
+                "kind": "quote",
+                "content": "Braun setzt sich für bessere Energiepolitik ein.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "moosachenergy",
-                "content": "Dank Braun gibt es nachhaltigere Energiequellen in Moosach."
+                "kind": "quote",
+                "content": "Dank Braun gibt es nachhaltigere Energiequellen in Moosach.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -1429,12 +1597,14 @@
         "constituency": "München-Ludwigsvorstadt",
         "history": [
             {
-                "username": "socialfacilities",
-                "content": "Weber arbeitet am Ausbau sozialer Einrichtungen."
+                "kind": "quote",
+                "content": "Weber arbeitet am Ausbau sozialer Einrichtungen.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "ludwigsocial",
-                "content": "Dank Weber gibt es mehr soziale Einrichtungen in Ludwigsvorstadt."
+                "kind": "quote",
+                "content": "Dank Weber gibt es mehr soziale Einrichtungen in Ludwigsvorstadt.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -1447,12 +1617,14 @@
         "constituency": "München-Pasing",
         "history": [
             {
-                "username": "transportplanner",
-                "content": "Schmidt arbeitet an der Verkehrsplanung in Pasing."
+                "kind": "quote",
+                "content": "Schmidt arbeitet an der Verkehrsplanung in Pasing.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "pasingtraffic",
-                "content": "Dank Schmidt gibt es bessere Verkehrslösungen in Pasing."
+                "kind": "quote",
+                "content": "Dank Schmidt gibt es bessere Verkehrslösungen in Pasing.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -1465,12 +1637,14 @@
         "constituency": "München-Milbertshofen",
         "history": [
             {
-                "username": "infrastructurefan",
-                "content": "Meyer fördert den Ausbau der Infrastruktur."
+                "kind": "quote",
+                "content": "Meyer fördert den Ausbau der Infrastruktur.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "milbertinfrastructure",
-                "content": "Dank Meyer gibt es mehr Infrastrukturprojekte in Milbertshofen."
+                "kind": "quote",
+                "content": "Dank Meyer gibt es mehr Infrastrukturprojekte in Milbertshofen.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -1483,12 +1657,14 @@
         "constituency": "München-Ramersdorf",
         "history": [
             {
-                "username": "youthinitiatives",
-                "content": "Berger setzt sich für mehr Jugendförderung ein."
+                "kind": "quote",
+                "content": "Berger setzt sich für mehr Jugendförderung ein.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "ramersdorfyouth",
-                "content": "Dank Berger gibt es mehr Angebote für die Jugend in Ramersdorf."
+                "kind": "quote",
+                "content": "Dank Berger gibt es mehr Angebote für die Jugend in Ramersdorf.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -1501,12 +1677,14 @@
         "constituency": "München-Schwabing",
         "history": [
             {
-                "username": "localeconomics",
-                "content": "Lang fördert die lokale Wirtschaft in Schwabing."
+                "kind": "quote",
+                "content": "Lang fördert die lokale Wirtschaft in Schwabing.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "schwabinggrowth",
-                "content": "Dank Lang hat sich die Wirtschaft in Schwabing verbessert."
+                "kind": "quote",
+                "content": "Dank Lang hat sich die Wirtschaft in Schwabing verbessert.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
@@ -1519,12 +1697,14 @@
         "constituency": "München-Neuperlach",
         "history": [
             {
-                "username": "sustainabledevelopment",
-                "content": "Fischer arbeitet an nachhaltiger Stadtentwicklung."
+                "kind": "quote",
+                "content": "Fischer arbeitet an nachhaltiger Stadtentwicklung.",
+                "header": "Ein Zitat des Politikers"
             },
             {
-                "username": "neuperlachsustainability",
-                "content": "Dank Fischer gibt es nachhaltige Projekte in Neuperlach."
+                "kind": "quote",
+                "content": "Dank Fischer gibt es nachhaltige Projekte in Neuperlach.",
+                "header": "Ein Zitat des Politikers"
             }
         ],
         "photo": "standard"
